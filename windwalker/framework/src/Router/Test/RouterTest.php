@@ -1,0 +1,293 @@
+<?php declare(strict_types=1);
+/**
+ * Part of Windwalker project Test files.  @codingStandardsIgnoreStart
+ *
+ * @copyright  Copyright (C) 2019 LYRASOFT Taiwan, Inc.
+ * @license    LGPL-2.0-or-later
+ */
+
+namespace Windwalker\Router\Test;
+
+use PHPUnit\Framework\TestCase;
+use Windwalker\Router\Matcher\TrieMatcher;
+use Windwalker\Router\Route;
+use Windwalker\Router\Router;
+
+/**
+ * Test class of Router
+ *
+ * @since 2.0
+ */
+class RouterTest extends TestCase
+{
+    /**
+     * Test instance.
+     *
+     * @var Router
+     */
+    protected $instance;
+
+    /**
+     * Sets up the fixture, for example, opens a network connection.
+     * This method is called before a test is executed.
+     *
+     * @return void
+     */
+    protected function setUp(): void
+    {
+        $this->instance = new Router();
+    }
+
+    /**
+     * Tears down the fixture, for example, closes a network connection.
+     * This method is called after a test is executed.
+     *
+     * @return void
+     */
+    protected function tearDown(): void
+    {
+    }
+
+    /**
+     * Method to test addMap().
+     *
+     * @return void
+     *
+     * @covers \Windwalker\Router\Router::addMap
+     */
+    public function testAddMap()
+    {
+        $this->instance->addMap('flower/(id)/(alias)', ['_controller' => 'FlowerController']);
+
+        $routes = $this->instance->getRoutes();
+
+        $this->assertInstanceOf(Route::class, $routes[0]);
+        $this->assertEquals('/flower/(id)/(alias)', $routes[0]->getPattern());
+    }
+
+    /**
+     * Method to test addMaps().
+     *
+     * @return void
+     *
+     * @covers \Windwalker\Router\Router::addMaps
+     */
+    public function testAddMaps()
+    {
+        $routes = [
+            'flower/(id)/(alias)' => ['_controller' => 'FlowerController'],
+            'flower/(id)/sakura' => ['_controller' => 'SakuraController'],
+        ];
+
+        $this->instance->addMaps($routes);
+
+        $routes = $this->instance->getRoutes();
+
+        $this->assertInstanceOf(Route::class, $routes[0]);
+        $this->assertInstanceOf(Route::class, $routes[1]);
+    }
+
+    /**
+     * Method to test addRoute().
+     *
+     * @return void
+     *
+     * @covers \Windwalker\Router\Router::addRoute
+     */
+    public function testAddRoute()
+    {
+        $this->instance->addRoute(new Route(null, 'flower/(id)/(alias)', ['_controller' => 'FlowerController']));
+
+        $routes = $this->instance->getRoutes();
+
+        $this->assertInstanceOf(Route::class, $routes[0]);
+
+        $result = $this->instance->match('flower/5/foo');
+
+        $this->assertInstanceOf(Route::class, $result);
+
+        $result = $result->getVariables();
+
+        $this->assertEquals('FlowerController', $result['_controller']);
+        $this->assertEquals('foo', $result['alias']);
+
+        $this->instance->addRoute(new Route('sakura', 'flower/(id)/sakura', ['_controller' => 'SakuraController']));
+
+        $routes = $this->instance->getRoutes();
+
+        $this->assertInstanceOf(Route::class, $routes['sakura']);
+
+        $this->instance->addRoute('foo', 'foo/bar/baz', ['_ctrl' => 'yoo']);
+
+        $routes = $this->instance->getRoutes();
+
+        $this->assertInstanceOf(Route::class, $routes['foo']);
+    }
+
+    /**
+     * Method to test addRoutes().
+     *
+     * @return void
+     *
+     * @covers \Windwalker\Router\Router::addRoutes
+     */
+    public function testAddRoutes()
+    {
+        $routes = [
+            new Route(null, 'flower/(id)/(alias)', ['_controller' => 'FlowerController']),
+            new Route('sakura', 'flower/(id)/sakura', ['_controller' => 'SakuraController']),
+        ];
+
+        $this->instance->addRoutes($routes);
+
+        $routes = $this->instance->getRoutes();
+
+        $this->assertInstanceOf(Route::class, $routes[0]);
+        $this->assertInstanceOf(Route::class, $routes['sakura']);
+    }
+
+    /**
+     * testHasAndGetRoute
+     *
+     * @return  void
+     *
+     * @covers \Windwalker\Router\Router::hasRoute
+     * @covers \Windwalker\Router\Router::getRoutes
+     */
+    public function testHasAndGetRoute()
+    {
+        $this->instance->addRoute($route = new Route('foo', '/foo'));
+
+        $this->assertFalse($this->instance->hasRoute('bar'));
+        $this->assertTrue($this->instance->hasRoute('foo'));
+
+        $this->assertNull($this->instance->getRoute('bar'));
+        $this->assertSame($route, $this->instance->getRoute('foo'));
+    }
+
+    /**
+     * Method to test match().
+     *
+     * @return void
+     *
+     * @covers \Windwalker\Router\Router::match
+     */
+    public function testMatch()
+    {
+        $routes = [
+            new Route(null, 'flower/(id)/(alias)', ['_controller' => 'FlowerController']),
+            new Route('sakura', 'foo/bar(/id,sakura)', ['_controller' => 'SakuraController']),
+        ];
+
+        $this->instance->addRoutes($routes);
+
+        $result = $this->instance->match('flower/5/foo');
+
+        $this->assertInstanceOf('Windwalker\Router\Route', $result);
+
+        $result = $result->getVariables();
+
+        $this->assertEquals('FlowerController', $result['_controller']);
+        $this->assertEquals('foo', $result['alias']);
+
+        $result = $this->instance->match('foo/bar/5/baz');
+
+        $this->assertInstanceOf('Windwalker\Router\Route', $result);
+
+        $result = $result->getVariables();
+
+        $this->assertEquals('SakuraController', $result['_controller']);
+        $this->assertEquals('baz', $result['sakura']);
+    }
+
+    /**
+     * Method to test build().
+     *
+     * @return void
+     *
+     * @covers \Windwalker\Router\Router::build
+     */
+    public function testBuild()
+    {
+        $routes = [
+            new Route('flower', 'flower/(id)/(alias)', ['_controller' => 'FlowerController']),
+            new Route('sakura', 'foo/bar(/id,sakura)', ['_controller' => 'SakuraController']),
+        ];
+
+        $this->instance->addRoutes($routes);
+
+        $this->assertEquals('flower/25/sakura', $this->instance->build('flower', ['id' => 25, 'alias' => 'sakura']));
+        $this->assertEquals(
+            '/flower/25/sakura',
+            $this->instance->build('flower', ['id' => 25, 'alias' => 'sakura'], true)
+        );
+    }
+
+    /**
+     * Method to test getMethod().
+     *
+     * @return void
+     */
+    public function testGetMethod()
+    {
+        // Remove the following lines when you implement this test.
+        $this->markTestIncomplete(
+            'This test has not been implemented yet.'
+        );
+    }
+
+    /**
+     * Method to test setMethod().
+     *
+     * @return void
+     */
+    public function testSetMethod()
+    {
+        // Remove the following lines when you implement this test.
+        $this->markTestIncomplete(
+            'This test has not been implemented yet.'
+        );
+    }
+
+    /**
+     * Method to test getMatcher().
+     *
+     * @return void
+     *
+     * @covers \Windwalker\Router\Router::getMatcher
+     */
+    public function testGetAndSetMatcher()
+    {
+        $this->assertInstanceOf('Windwalker\Router\Matcher\MatcherInterface', $this->instance->getMatcher());
+
+        $matcher = new TrieMatcher();
+
+        $this->instance->setMatcher($matcher);
+
+        $this->assertSame($matcher, $this->instance->getMatcher());
+    }
+
+    /**
+     * testGroup
+     *
+     * @return  void
+     *
+     * @covers \Windwalker\Router\Router::group
+     */
+    public function testGroup()
+    {
+        $this->instance->group(
+            '/sky',
+            function (Router $router) {
+                $router->addRoute(new Route(null, 'flower/(id)/(alias)', ['_controller' => 'FlowerController']));
+            }
+        );
+
+        $result = $this->instance->match('/sky/flower/5/foo');
+
+        $result = $result->getVariables();
+
+        $this->assertEquals('FlowerController', $result['_controller']);
+        $this->assertEquals('foo', $result['alias']);
+    }
+}

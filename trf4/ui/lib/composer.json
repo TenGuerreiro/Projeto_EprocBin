@@ -1,0 +1,31 @@
+{
+    "name": "trf4/ui",
+    "description": "Biblioteca para criação de componentes de interface",
+    "autoload": {
+        "psr-4": {
+            "TRF4\\UI\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Barbosa",
+            "email": "bxo@trf4.jus.br"
+        }
+    ],
+    "require": {
+        "windwalker/html": "~3.0",
+        "windwalker/framework": "~3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5",
+        "gajus/dindent": "2.0",
+        "overtrue/phplint": "^2.0",
+        "twig/twig": "^2.0",
+        "symfony/console": "^5.0"
+    }
+}

@@ -1,0 +1,15 @@
+@import "~bootstrap-darkmode/darktheme";
+
+
+[data-theme=dark] {
+    .tagify {
+        color: $form-color;
+        background-color: $form-bg;
+        --placeholder-color: rgb(255 255 255 / 40%);
+        --placeholder-color-focus: rgb(255 255 255 / 25%);
+
+        &:not(.is-invalid):not(.tagify--focus) {
+            border-color: $form-border;
+        }
+    }
+}
