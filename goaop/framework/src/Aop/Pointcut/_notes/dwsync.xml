@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="SignaturePointcut.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="PointcutParseTable.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="MatchInheritedPointcut.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="PointcutParser.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="AnnotationPointcut.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="CFlowBelowMethodPointcut.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="PointcutReference.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="NotPointcut.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="TruePointcut.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="PointcutClassFilterTrait.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="AndPointcut.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="FunctionPointcut.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="ClassMemberReference.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="MagicMethodPointcut.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="OrPointcut.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="PointcutGrammar.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="PointcutLexer.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+</dwsync>

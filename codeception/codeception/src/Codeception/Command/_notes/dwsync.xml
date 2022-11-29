@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="GenerateCest.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="Completion.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="Init.php" server="10.244.88.40//opt/" local="133042820440000000" remote="133042820440000000" Dst="0" />
+<file name="ConfigValidate.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="GherkinSteps.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="GenerateHelper.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="GeneratePageObject.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="DryRun.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="GenerateFeature.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="GenerateStepObject.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="GenerateTest.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="GherkinSnippets.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="GenerateSnapshot.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="GenerateScenarios.php" server="10.244.88.40//opt/" local="133042820440000000" remote="133042820440000000" Dst="0" />
+<file name="Bootstrap.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="Clean.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="GenerateGroup.php" server="10.244.88.40//opt/" local="133042820440000000" remote="133042820440000000" Dst="0" />
+<file name="GenerateEnvironment.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="Build.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="GenerateSuite.php" server="10.244.88.40//opt/" local="133042820440000000" remote="133042820440000000" Dst="0" />
+<file name="SelfUpdate.php" server="10.244.88.40//opt/" local="133042820440000000" remote="133042820440000000" Dst="0" />
+<file name="Run.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="GenerateCept.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="CompletionFallback.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+<file name="Console.php" server="10.244.88.40//opt/" local="133042820430000000" remote="133042820430000000" Dst="0" />
+</dwsync>

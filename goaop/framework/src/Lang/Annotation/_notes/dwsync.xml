@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Aspect.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="DeclareParents.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="Around.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="Interceptor.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="BaseInterceptor.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="BaseAnnotation.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="Before.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="DeclareError.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="After.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="Pointcut.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="AfterThrowing.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+</dwsync>

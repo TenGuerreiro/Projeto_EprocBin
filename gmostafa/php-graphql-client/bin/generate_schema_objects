@@ -1,0 +1,48 @@
+#!/usr/bin/env php5.6
+<?php
+
+$autoLoadFiles = [__DIR__ . '/../vendor/autoload.php', __DIR__ . '/../../../autoload.php'];
+
+// Require autoload.php depending on environment
+$autoLoadFound = false;
+foreach ($autoLoadFiles as $autoLoadFile) {
+	if (file_exists($autoLoadFile)) {
+		require $autoLoadFile;
+		$autoLoadFound = true;
+	}
+}
+// Exit if autoload.php is not required
+if (!$autoLoadFound) {
+	throw new RuntimeException('Could not find vendor/autoload.php');
+}
+
+use GraphQL\SchemaGenerator\SchemaScanner;
+
+$endpointUrl = readline('GraphlQL endpoint URL: ');
+
+$authHeaders    = [];
+$authHeaderName = readline('Authorization header name: ');
+if (!empty($authHeaderName)) {
+    $authHeaderValue = readline('Authorization header value: ');
+    $authHeaders = [$authHeaderName => $authHeaderValue];
+}
+
+$scanner = new SchemaScanner();
+$schemaTypes = $scanner->getSchemaTypesArray(
+    $endpointUrl, $authHeaders
+);
+
+if (empty($schemaTypes)) {
+	print "No schema types found in the specified GraphQL endpoint\n";
+    exit;
+}
+
+print "-------------------------------------------\n";
+print "Generating schema objects from schema types\n";
+print "-------------------------------------------\n";
+
+$scanner->generateSchemaObjects($schemaTypes);
+
+print "-------------------------------------------\n";
+print "Schema objects generation complete\n";
+print "-------------------------------------------\n";

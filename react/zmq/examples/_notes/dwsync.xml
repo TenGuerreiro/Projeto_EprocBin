@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="push.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="pubsub.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="pubsub-with-channels.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="pull.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="test-miss-read-event.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="test-push-pull-multipart-vanilla.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="test-push-pull-multipart-react.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+</dwsync>

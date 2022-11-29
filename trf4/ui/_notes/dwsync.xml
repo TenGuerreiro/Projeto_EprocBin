@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".env.example" server="10.244.88.40//opt/" local="133042821760000000" remote="133042821760000000" Dst="0" />
+<file name="Makefile" server="10.244.88.40//opt/" local="133042821920000000" remote="133042821920000000" Dst="0" />
+<file name="package.json" server="10.244.88.40//opt/" local="133042821650000000" remote="133042821650000000" Dst="0" />
+<file name=".gitattributes" server="10.244.88.40//opt/" local="133042821760000000" remote="133042821760000000" Dst="0" />
+<file name="setup.sh" server="10.244.88.40//opt/" local="133042821770000000" remote="133042821770000000" Dst="0" />
+<file name="package-lock.json" server="10.244.88.40//opt/" local="133042821650000000" remote="133042821650000000" Dst="0" />
+<file name=".gitignore" server="10.244.88.40//opt/" local="133042821650000000" remote="133042821650000000" Dst="0" />
+<file name="format.js" server="10.244.88.40//opt/" local="133042821760000000" remote="133042821760000000" Dst="0" />
+<file name="phpunit.xml" server="10.244.88.40//opt/" local="133042821820000000" remote="133042821820000000" Dst="0" />
+<file name="composer.json" server="10.244.88.40//opt/" local="133042821650000000" remote="133042821650000000" Dst="0" />
+<file name="Dockerfile" server="10.244.88.40//opt/" local="133042821920000000" remote="133042821920000000" Dst="0" />
+<file name="README.md" server="10.244.88.40//opt/" local="133042821760000000" remote="133042821760000000" Dst="0" />
+<file name=".styleci.yml" server="10.244.88.40//opt/" local="133042821920000000" remote="133042821920000000" Dst="0" />
+<file name=".editorconfig" server="10.244.88.40//opt/" local="133042821650000000" remote="133042821650000000" Dst="0" />
+<file name="docker-compose.yml" server="10.244.88.40//opt/" local="133042821760000000" remote="133042821760000000" Dst="0" />
+<file name=".phplint.yml" server="10.244.88.40//opt/" local="133042821770000000" remote="133042821770000000" Dst="0" />
+<file name=".gitlab-ci.yml" server="10.244.88.40//opt/" local="133042821650000000" remote="133042821650000000" Dst="0" />
+<file name="xdebug.ini" server="10.244.88.40//opt/" local="133042821820000000" remote="133042821820000000" Dst="0" />
+<file name="composer.lock" server="10.244.88.40//opt/" local="133042821820000000" remote="133042821820000000" Dst="0" />
+</dwsync>

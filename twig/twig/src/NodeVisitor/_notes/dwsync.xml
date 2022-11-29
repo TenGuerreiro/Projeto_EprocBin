@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractNodeVisitor.php" server="10.244.88.40//opt/" local="133042817850000000" remote="133042817850000000" Dst="0" />
+<file name="OptimizerNodeVisitor.php" server="10.244.88.40//opt/" local="133042817860000000" remote="133042817860000000" Dst="0" />
+<file name="EscaperNodeVisitor.php" server="10.244.88.40//opt/" local="133042817860000000" remote="133042817860000000" Dst="0" />
+<file name="SandboxNodeVisitor.php" server="10.244.88.40//opt/" local="133042817860000000" remote="133042817860000000" Dst="0" />
+<file name="SafeAnalysisNodeVisitor.php" server="10.244.88.40//opt/" local="133042817850000000" remote="133042817850000000" Dst="0" />
+<file name="MacroAutoImportNodeVisitor.php" server="10.244.88.40//opt/" local="133042817860000000" remote="133042817860000000" Dst="0" />
+<file name="NodeVisitorInterface.php" server="10.244.88.40//opt/" local="133042817860000000" remote="133042817860000000" Dst="0" />
+</dwsync>

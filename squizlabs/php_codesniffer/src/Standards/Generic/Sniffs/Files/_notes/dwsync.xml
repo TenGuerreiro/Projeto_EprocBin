@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="LineEndingsSniff.php" server="10.244.88.40//opt/" local="133042821110000000" remote="133042821110000000" Dst="0" />
+<file name="EndFileNewlineSniff.php" server="10.244.88.40//opt/" local="133042821100000000" remote="133042821100000000" Dst="0" />
+<file name="LineLengthSniff.php" server="10.244.88.40//opt/" local="133042821100000000" remote="133042821100000000" Dst="0" />
+<file name="OneInterfacePerFileSniff.php" server="10.244.88.40//opt/" local="133042821110000000" remote="133042821110000000" Dst="0" />
+<file name="OneTraitPerFileSniff.php" server="10.244.88.40//opt/" local="133042821110000000" remote="133042821110000000" Dst="0" />
+<file name="EndFileNoNewlineSniff.php" server="10.244.88.40//opt/" local="133042821110000000" remote="133042821110000000" Dst="0" />
+<file name="ExecutableFileSniff.php" server="10.244.88.40//opt/" local="133042821100000000" remote="133042821100000000" Dst="0" />
+<file name="LowercasedFilenameSniff.php" server="10.244.88.40//opt/" local="133042821110000000" remote="133042821110000000" Dst="0" />
+<file name="InlineHTMLSniff.php" server="10.244.88.40//opt/" local="133042821100000000" remote="133042821100000000" Dst="0" />
+<file name="ByteOrderMarkSniff.php" server="10.244.88.40//opt/" local="133042821110000000" remote="133042821110000000" Dst="0" />
+<file name="OneClassPerFileSniff.php" server="10.244.88.40//opt/" local="133042821110000000" remote="133042821110000000" Dst="0" />
+<file name="OneObjectStructurePerFileSniff.php" server="10.244.88.40//opt/" local="133042821110000000" remote="133042821110000000" Dst="0" />
+</dwsync>

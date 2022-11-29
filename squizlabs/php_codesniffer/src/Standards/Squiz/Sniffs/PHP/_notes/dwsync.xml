@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DisallowBooleanStatementSniff.php" server="10.244.88.40//opt/" local="133042821350000000" remote="133042821350000000" Dst="0" />
+<file name="DiscouragedFunctionsSniff.php" server="10.244.88.40//opt/" local="133042821340000000" remote="133042821340000000" Dst="0" />
+<file name="HeredocSniff.php" server="10.244.88.40//opt/" local="133042821350000000" remote="133042821350000000" Dst="0" />
+<file name="DisallowInlineIfSniff.php" server="10.244.88.40//opt/" local="133042821340000000" remote="133042821340000000" Dst="0" />
+<file name="LowercasePHPFunctionsSniff.php" server="10.244.88.40//opt/" local="133042821350000000" remote="133042821350000000" Dst="0" />
+<file name="CommentedOutCodeSniff.php" server="10.244.88.40//opt/" local="133042821350000000" remote="133042821350000000" Dst="0" />
+<file name="GlobalKeywordSniff.php" server="10.244.88.40//opt/" local="133042821350000000" remote="133042821350000000" Dst="0" />
+<file name="EvalSniff.php" server="10.244.88.40//opt/" local="133042821350000000" remote="133042821350000000" Dst="0" />
+<file name="InnerFunctionsSniff.php" server="10.244.88.40//opt/" local="133042821350000000" remote="133042821350000000" Dst="0" />
+<file name="DisallowMultipleAssignmentsSniff.php" server="10.244.88.40//opt/" local="133042821350000000" remote="133042821350000000" Dst="0" />
+<file name="EmbeddedPhpSniff.php" server="10.244.88.40//opt/" local="133042821350000000" remote="133042821350000000" Dst="0" />
+<file name="DisallowSizeFunctionsInLoopsSniff.php" server="10.244.88.40//opt/" local="133042821350000000" remote="133042821350000000" Dst="0" />
+<file name="NonExecutableCodeSniff.php" server="10.244.88.40//opt/" local="133042821350000000" remote="133042821350000000" Dst="0" />
+<file name="DisallowComparisonAssignmentSniff.php" server="10.244.88.40//opt/" local="133042821350000000" remote="133042821350000000" Dst="0" />
+</dwsync>

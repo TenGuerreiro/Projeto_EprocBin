@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="QueryGrammarInterface.php" server="10.244.88.40//opt/" local="133042819620000000" remote="133042819620000000" Dst="0" />
+<file name="QueryElement.php" server="10.244.88.40//opt/" local="133042819630000000" remote="133042819630000000" Dst="0" />
+<file name="AbstractQueryGrammar.php" server="10.244.88.40//opt/" local="133042819620000000" remote="133042819620000000" Dst="0" />
+<file name="phpunit.xml.dist" server="10.244.88.40//opt/" local="133042819610000000" remote="133042819610000000" Dst="0" />
+<file name="phpunit.travis.xml" server="10.244.88.40//opt/" local="133042819620000000" remote="133042819620000000" Dst="0" />
+<file name="QueryExpression.php" server="10.244.88.40//opt/" local="133042819630000000" remote="133042819630000000" Dst="0" />
+<file name=".gitignore" server="10.244.88.40//opt/" local="133042819610000000" remote="133042819610000000" Dst="0" />
+<file name="FormatWrapper.php" server="10.244.88.40//opt/" local="133042819630000000" remote="133042819630000000" Dst="0" />
+<file name="ExpressionWrapper.php" server="10.244.88.40//opt/" local="133042819600000000" remote="133042819600000000" Dst="0" />
+<file name=".travis.yml" server="10.244.88.40//opt/" local="133042819630000000" remote="133042819630000000" Dst="0" />
+<file name="composer.json" server="10.244.88.40//opt/" local="133042819610000000" remote="133042819610000000" Dst="0" />
+<file name="README.md" server="10.244.88.40//opt/" local="133042819620000000" remote="133042819620000000" Dst="0" />
+<file name="QueryInterface.php" server="10.244.88.40//opt/" local="133042819630000000" remote="133042819630000000" Dst="0" />
+<file name="ConnectionContainer.php" server="10.244.88.40//opt/" local="133042819630000000" remote="133042819630000000" Dst="0" />
+<file name="Query.php" server="10.244.88.40//opt/" local="133042819620000000" remote="133042819620000000" Dst="0" />
+</dwsync>

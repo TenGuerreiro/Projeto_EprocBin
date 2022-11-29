@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ForbiddenCallTimePassByReferenceSniff.php" server="10.244.88.40//opt/" local="133042819950000000" remote="133042819950000000" Dst="0" />
+<file name="NewClassMemberAccessSniff.php" server="10.244.88.40//opt/" local="133042819950000000" remote="133042819950000000" Dst="0" />
+<file name="RemovedCurlyBraceArrayAccessSniff.php" server="10.244.88.40//opt/" local="133042819950000000" remote="133042819950000000" Dst="0" />
+<file name="NewArrayStringDereferencingSniff.php" server="10.244.88.40//opt/" local="133042819950000000" remote="133042819950000000" Dst="0" />
+<file name="NewFlexibleHeredocNowdocSniff.php" server="10.244.88.40//opt/" local="133042819950000000" remote="133042819950000000" Dst="0" />
+<file name="NewArrayUnpackingSniff.php" server="10.244.88.40//opt/" local="133042819950000000" remote="133042819950000000" Dst="0" />
+<file name="RemovedNewReferenceSniff.php" server="10.244.88.40//opt/" local="133042819950000000" remote="133042819950000000" Dst="0" />
+<file name="NewFunctionCallTrailingCommaSniff.php" server="10.244.88.40//opt/" local="133042819950000000" remote="133042819950000000" Dst="0" />
+<file name="NewShortArraySniff.php" server="10.244.88.40//opt/" local="133042819950000000" remote="133042819950000000" Dst="0" />
+<file name="NewDynamicAccessToStaticSniff.php" server="10.244.88.40//opt/" local="133042819960000000" remote="133042819960000000" Dst="0" />
+<file name="NewFunctionArrayDereferencingSniff.php" server="10.244.88.40//opt/" local="133042819950000000" remote="133042819950000000" Dst="0" />
+</dwsync>

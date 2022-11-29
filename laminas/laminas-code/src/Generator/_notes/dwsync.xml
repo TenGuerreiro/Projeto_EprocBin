@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BodyGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="ClassGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="ValueGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="AbstractGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="TraitUsageInterface.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="TraitGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="InterfaceGenerator.php" server="10.244.88.40//opt/" local="133042819050000000" remote="133042819050000000" Dst="0" />
+<file name="MethodGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="FileGenerator.php" server="10.244.88.40//opt/" local="133042819050000000" remote="133042819050000000" Dst="0" />
+<file name="TraitUsageGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="DocBlockGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="TypeGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="PromotedParameterGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="AbstractMemberGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="GeneratorInterface.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="PropertyValueGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="PropertyGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+<file name="ParameterGenerator.php" server="10.244.88.40//opt/" local="133042819040000000" remote="133042819040000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="UniqueInputFieldNames.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="UniqueOperationNames.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="ProvidedNonNullArguments.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="ProvidedRequiredArgumentsOnDirectives.php" server="10.244.88.40//opt/" local="133042825270000000" remote="133042825270000000" Dst="0" />
+<file name="FragmentsOnCompositeTypes.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="UniqueDirectivesPerLocation.php" server="10.244.88.40//opt/" local="133042825270000000" remote="133042825270000000" Dst="0" />
+<file name="ExecutableDefinitions.php" server="10.244.88.40//opt/" local="133042825270000000" remote="133042825270000000" Dst="0" />
+<file name="KnownArgumentNames.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="DisableIntrospection.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="CustomValidationRule.php" server="10.244.88.40//opt/" local="133042825270000000" remote="133042825270000000" Dst="0" />
+<file name="KnownArgumentNamesOnDirectives.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="ValidationRule.php" server="10.244.88.40//opt/" local="133042825270000000" remote="133042825270000000" Dst="0" />
+<file name="VariablesInAllowedPosition.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="NoUnusedVariables.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="FieldsOnCorrectType.php" server="10.244.88.40//opt/" local="133042825270000000" remote="133042825270000000" Dst="0" />
+<file name="QueryDepth.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="LoneSchemaDefinition.php" server="10.244.88.40//opt/" local="133042825270000000" remote="133042825270000000" Dst="0" />
+<file name="UniqueVariableNames.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="NoUnusedFragments.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="KnownFragmentNames.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="OverlappingFieldsCanBeMerged.php" server="10.244.88.40//opt/" local="133042825270000000" remote="133042825270000000" Dst="0" />
+<file name="ScalarLeafs.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="ValuesOfCorrectType.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="NoFragmentCycles.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="UniqueFragmentNames.php" server="10.244.88.40//opt/" local="133042825270000000" remote="133042825270000000" Dst="0" />
+<file name="LoneAnonymousOperation.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="UniqueArgumentNames.php" server="10.244.88.40//opt/" local="133042825270000000" remote="133042825270000000" Dst="0" />
+<file name="PossibleFragmentSpreads.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="VariablesDefaultValueAllowed.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="KnownDirectives.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="QuerySecurityRule.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="VariablesAreInputTypes.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="NoUndefinedVariables.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="QueryComplexity.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+<file name="KnownTypeNames.php" server="10.244.88.40//opt/" local="133042825280000000" remote="133042825280000000" Dst="0" />
+</dwsync>

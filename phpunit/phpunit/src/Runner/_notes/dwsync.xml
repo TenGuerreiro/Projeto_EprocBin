@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="StandardTestSuiteLoader.php" server="10.244.88.40//opt/" local="133042820100000000" remote="133042820100000000" Dst="0" />
+<file name="Version.php" server="10.244.88.40//opt/" local="133042820100000000" remote="133042820100000000" Dst="0" />
+<file name="TestSuiteLoader.php" server="10.244.88.40//opt/" local="133042820100000000" remote="133042820100000000" Dst="0" />
+<file name="BaseTestRunner.php" server="10.244.88.40//opt/" local="133042820100000000" remote="133042820100000000" Dst="0" />
+<file name="Exception.php" server="10.244.88.40//opt/" local="133042820090000000" remote="133042820090000000" Dst="0" />
+<file name="DefaultTestResultCache.php" server="10.244.88.40//opt/" local="133042820090000000" remote="133042820090000000" Dst="0" />
+<file name="TestResultCache.php" server="10.244.88.40//opt/" local="133042820100000000" remote="133042820100000000" Dst="0" />
+<file name="NullTestResultCache.php" server="10.244.88.40//opt/" local="133042820090000000" remote="133042820090000000" Dst="0" />
+<file name="PhptTestCase.php" server="10.244.88.40//opt/" local="133042820090000000" remote="133042820090000000" Dst="0" />
+<file name="ResultCacheExtension.php" server="10.244.88.40//opt/" local="133042820110000000" remote="133042820110000000" Dst="0" />
+<file name="TestSuiteSorter.php" server="10.244.88.40//opt/" local="133042820090000000" remote="133042820090000000" Dst="0" />
+</dwsync>

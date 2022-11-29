@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="MemberAccessExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="UnaryOpExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="CallExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="Variable.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="IssetIntrinsicExpression.php" server="10.244.88.40//opt/" local="133042817780000000" remote="133042817780000000" Dst="0" />
+<file name="EchoExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="AssignmentExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="UnaryExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="PrefixUpdateExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="BracedExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="ListIntrinsicExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="PrintIntrinsicExpression.php" server="10.244.88.40//opt/" local="133042817780000000" remote="133042817780000000" Dst="0" />
+<file name="ObjectCreationExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="EvalIntrinsicExpression.php" server="10.244.88.40//opt/" local="133042817780000000" remote="133042817780000000" Dst="0" />
+<file name="ArrayCreationExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="SubscriptExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="ScriptInclusionExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="ErrorControlExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="ParenthesizedExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="YieldExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="TernaryExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="ArgumentExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="CloneExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="ExitIntrinsicExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="BinaryExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="ScopedPropertyAccessExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="EmptyIntrinsicExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="UnsetIntrinsicExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="PostfixUpdateExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="CastExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+<file name="AnonymousFunctionCreationExpression.php" server="10.244.88.40//opt/" local="133042817790000000" remote="133042817790000000" Dst="0" />
+</dwsync>

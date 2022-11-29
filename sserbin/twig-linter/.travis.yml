@@ -1,0 +1,25 @@
+language: php
+dist: bionic
+sudo: false
+
+cache:
+  directories:
+    - $HOME/.composer/cache
+    - vendor
+
+php:
+  - 7.2 # EOL: 20 Nov 2020
+  - 7.3 # EOL: 6 Dec 2021
+  - 7.4 # EOL: 28 Nov 2022
+  - 8.0 # EOL: 26 Nov 2023
+
+matrix:
+  fast_finish: true
+
+install:
+  - composer install --no-interaction --no-progress --prefer-dist --ansi
+
+script:
+  - composer cs-check
+  - composer static-analysis
+  - composer test

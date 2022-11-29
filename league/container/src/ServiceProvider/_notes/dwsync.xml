@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractServiceProvider.php" server="10.244.88.40//opt/" local="133042817680000000" remote="133042817680000000" Dst="0" />
+<file name="ServiceProviderInterface.php" server="10.244.88.40//opt/" local="133042817680000000" remote="133042817680000000" Dst="0" />
+<file name="ServiceProviderAggregateInterface.php" server="10.244.88.40//opt/" local="133042817680000000" remote="133042817680000000" Dst="0" />
+<file name="BootableServiceProviderInterface.php" server="10.244.88.40//opt/" local="133042817680000000" remote="133042817680000000" Dst="0" />
+<file name="AbstractSignatureServiceProvider.php" server="10.244.88.40//opt/" local="133042817680000000" remote="133042817680000000" Dst="0" />
+<file name="SignatureServiceProviderInterface.php" server="10.244.88.40//opt/" local="133042817670000000" remote="133042817670000000" Dst="0" />
+<file name="ServiceProviderAggregate.php" server="10.244.88.40//opt/" local="133042817680000000" remote="133042817680000000" Dst="0" />
+</dwsync>

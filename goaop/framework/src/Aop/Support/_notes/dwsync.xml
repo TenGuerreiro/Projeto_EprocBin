@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DefaultPointcutAdvisor.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="AnnotatedReflectionProperty.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="InheritanceClassFilter.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="TruePointFilter.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="AnnotatedReflectionMethod.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="LazyPointcutAdvisor.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="DeclareParentsAdvisor.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="AbstractGenericAdvisor.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="AndPointFilter.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="SimpleNamespaceFilter.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="NotPointFilter.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="ReturnTypeFilter.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="PointcutBuilder.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="NamespacedReflectionFunction.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="OrPointFilter.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="ModifierMatcherFilter.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="AnnotationAccess.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+</dwsync>

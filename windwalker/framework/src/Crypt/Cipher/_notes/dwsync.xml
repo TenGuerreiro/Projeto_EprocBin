@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="PhpAesCipher.php" server="10.244.88.40//opt/" local="133042819320000000" remote="133042819320000000" Dst="0" />
+<file name="SodiumCipher.php" server="10.244.88.40//opt/" local="133042819320000000" remote="133042819320000000" Dst="0" />
+<file name="AbstractCipher.php" server="10.244.88.40//opt/" local="133042819320000000" remote="133042819320000000" Dst="0" />
+<file name="CipherInterface.php" server="10.244.88.40//opt/" local="133042819320000000" remote="133042819320000000" Dst="0" />
+<file name="SimpleCipher.php" server="10.244.88.40//opt/" local="133042819320000000" remote="133042819320000000" Dst="0" />
+<file name="Aes256Cipher.php" server="10.244.88.40//opt/" local="133042819320000000" remote="133042819320000000" Dst="0" />
+<file name="AbstractOpensslCipher.php" server="10.244.88.40//opt/" local="133042819320000000" remote="133042819320000000" Dst="0" />
+<file name="BlowfishCipher.php" server="10.244.88.40//opt/" local="133042819320000000" remote="133042819320000000" Dst="0" />
+<file name="Des3Cipher.php" server="10.244.88.40//opt/" local="133042819320000000" remote="133042819320000000" Dst="0" />
+</dwsync>

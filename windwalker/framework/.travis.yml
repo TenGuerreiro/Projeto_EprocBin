@@ -1,0 +1,35 @@
+language: php
+
+sudo: true
+dist: trusty
+
+php:
+  - '7.1'
+  - '7.2'
+  - '7.3'
+  - '7.4'
+
+#matrix:
+#  allow_failures:
+
+addons:
+  postgresql: "9.3"
+
+services:
+  - memcached # will start memcached
+
+before_install:
+  - composer global require phpunit/phpunit ^7.0
+  - sh -e build/travis/scripts/apt-get.sh
+  - sh -e build/travis/scripts/apache2-vhost.sh
+  - sh -e build/travis/scripts/apache2-configure.sh
+  - sudo add-apt-repository ppa:ondrej/php -y
+  - sh -e build/travis/scripts/libsodium.sh
+
+before_script:
+  - sh -e build/travis/scripts/pecl-libsodium.sh || true
+  - composer update
+  - phpenv rehash
+
+script:
+  - /home/travis/.config/composer/vendor/bin/phpunit --configuration phpunit.travis.xml

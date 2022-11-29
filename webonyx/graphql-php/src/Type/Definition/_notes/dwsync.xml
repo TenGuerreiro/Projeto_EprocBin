@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="UnionType.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="NonNull.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="OutputType.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="IDType.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="LeafType.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="AbstractType.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="UnmodifiedType.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="EnumValueDefinition.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="FieldDefinition.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="IntType.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="FloatType.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="EnumType.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="NullableType.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="ScalarType.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="CustomScalarType.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="FieldArgument.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="NamedType.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="BooleanType.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="ResolveInfo.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="InputObjectType.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="QueryPlan.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="InputObjectField.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="ListOfType.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="Directive.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="ObjectType.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="InterfaceType.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="StringType.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="Type.php" server="10.244.88.40//opt/" local="133042825340000000" remote="133042825340000000" Dst="0" />
+<file name="InputType.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="CompositeType.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+<file name="WrappingType.php" server="10.244.88.40//opt/" local="133042825330000000" remote="133042825330000000" Dst="0" />
+</dwsync>

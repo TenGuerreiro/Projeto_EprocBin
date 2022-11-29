@@ -1,0 +1,366 @@
+image: ${BUILD_WORKSPACE_IMAGE}
+
+variables:
+  # WORKSPACE
+  PHP_VERSION: "7.3"
+  NODE_VERSION: "16.13.0"
+  COMPOSER_VERSION: "2.1.12"
+  PYTHON_VERSION: "2.7"
+  XDEBUG_VERSION: "2.7.0"
+  BUILD_WORKSPACE_IMAGE: "${CI_REGISTRY_IMAGE}/workspace-php${PHP_VERSION}-node${NODE_VERSION}-composer${COMPOSER_VERSION}-python${PYTHON_VERSION}:latest"
+  BUILD_WORKSPACE_IMAGE_XDEBUG: "${CI_REGISTRY_IMAGE}/workspace-php${PHP_VERSION}-node${NODE_VERSION}-composer${COMPOSER_VERSION}-python${PYTHON_VERSION}-xdebug${XDEBUG_VERSION}:latest"
+
+  # SHOWCASE / kaniko build variables
+  IMAGE_NAME: "$CI_REGISTRY_IMAGE/showcase"
+  IMAGE_ABSOLUTE_PATH: "$CI_PROJECT_DIR"
+
+  ## HELM
+  HELM_RELEASE_NAME: "ui-showcase-$CI_COMMIT_REF_SLUG"
+
+stages:
+  - build-workspace-images
+  - build
+  - cq-test
+  - build-deploy-images
+  - deploy
+  - cleanup
+
+cache:
+  key: "$CI_COMMIT_REF_SLUG"
+  paths:
+    - .phplint-cache
+    - .phpunit.result.cache
+    - vendor
+    - showcase/vendor
+    - showcase/node_modules/
+    - ~/.phive/
+    - tools/
+
+
+
+#
+#
+#
+#
+
+
+.build-workspace-images: &build-workspace-images-template
+  image:
+    name: gcr.io/kaniko-project/executor:debug
+    entrypoint: [ "" ]
+  stage: build-workspace-images
+  cache: { }
+  only:
+    changes:
+      - .docker/workspace/*
+      - .gitlab-ci.yml
+      - .env.example
+  before_script:
+    - mkdir -p /kaniko/.docker
+    - echo "{\"auths\":{\"$CI_REGISTRY\":{\"username\":\"$CI_REGISTRY_USER\",\"password\":\"$CI_REGISTRY_PASSWORD\"}}}" > /kaniko/.docker/config.json
+
+build-workspace-images:
+  <<: *build-workspace-images-template
+  script:
+    - /kaniko/executor
+      --dockerfile .docker/workspace/Dockerfile
+      --cache=true
+      --build-arg PHP_VERSION=$PHP_VERSION
+      --build-arg NODE_VERSION=$NODE_VERSION
+      --build-arg COMPOSER_VERSION=$COMPOSER_VERSION
+      --build-arg PYTHON_VERSION=$PYTHON_VERSION
+      --destination ${BUILD_WORKSPACE_IMAGE}
+
+build-workspace-images-xdebug:
+  <<: *build-workspace-images-template
+  script:
+    - /kaniko/executor
+      --dockerfile .docker/workspace/Dockerfile
+      --cache=true
+      --build-arg PHP_VERSION=$PHP_VERSION
+      --build-arg NODE_VERSION=$NODE_VERSION
+      --build-arg COMPOSER_VERSION=$COMPOSER_VERSION
+      --build-arg PYTHON_VERSION=$PYTHON_VERSION
+      --build-arg INSTALL_XDEBUG=true
+      --build-arg XDEBUG_VERSION=$XDEBUG_VERSION
+      --destination ${BUILD_WORKSPACE_IMAGE_XDEBUG}
+
+#
+#
+#
+#
+
+.base-build-dependencies: &base-build-dependencies
+  image: ${BUILD_WORKSPACE_IMAGE_XDEBUG}
+  stage: build
+
+build:dependencies:
+  <<: *base-build-dependencies
+  artifacts:
+    expire_in: 2 days
+    paths:
+      - vendor
+      - node_modules/
+      - lib/vendor/
+      - showcase/node_modules/
+      - showcase/vendor/
+      - tools/
+  script:
+    - make build-dev
+
+build:dependencies-prod:
+  <<: *base-build-dependencies
+  artifacts:
+    expire_in: 2 days
+    paths:
+      - vendor
+      - lib/vendor
+      - showcase/vendor/
+      - showcase/.env
+      - showcase/public/
+  script:
+    - make build-prod-remove-dev-deps
+    - UI_VERSION=$([ ! -z "$CI_COMMIT_TAG" ] && echo $CI_COMMIT_TAG || echo $CI_ENVIRONMENT_SLUG);
+    - echo UI_VERSION="$UI_VERSION" >> showcase/.env # todo tentar substituir
+    - echo LATEST_COMMIT_DATE=\"$(git show -s --format=%ci $CI_COMMIT_SHA)\" >> showcase/.env
+    - echo LATEST_COMMIT_SHA=$CI_COMMIT_SHA >> showcase/.env
+    - echo PROJECT_URL="$CI_PROJECT_URL" >> showcase/.env
+    - echo PRODUCTION=true >> showcase/.env
+
+#
+#
+#
+#
+
+
+code-quality:lint:
+  dependencies:
+    - build:dependencies
+  stage: cq-test
+  allow_failure: false
+  script:
+    - make lint
+
+code-quality:copy-paste-detector:
+  dependencies:
+    - build:dependencies
+  stage: cq-test
+  allow_failure: true
+  script:
+    - make phpcpd
+
+test:unit:
+  image: ${BUILD_WORKSPACE_IMAGE_XDEBUG}
+  stage: cq-test
+  cache:
+    paths:
+      - .phpunit.result.cache
+    policy: pull-push
+  artifacts:
+    paths:
+      - tests/_reports
+  dependencies:
+    - build:dependencies
+  script:
+    - make test-with-coverage
+
+
+#
+#
+#
+#
+
+build-deploy-image:
+  stage: build-deploy-images
+  image:
+    name: gcr.io/kaniko-project/executor:debug
+    entrypoint: [ "" ]
+  cache:
+    policy: pull
+  only:
+    - branches
+    - tags
+  dependencies:
+    - build:dependencies-prod
+  before_script:
+    - mkdir -p /kaniko/.docker
+    - echo "{\"auths\":{\"$CI_REGISTRY\":{\"username\":\"$CI_REGISTRY_USER\",\"password\":\"$CI_REGISTRY_PASSWORD\"}}}" > /kaniko/.docker/config.json
+  script:
+    - export CI_APPLICATION_REPOSITORY=$IMAGE_NAME
+    - |
+      if [[ -z "$CI_COMMIT_TAG" ]]; then
+        export CI_APPLICATION_TAG=$CI_COMMIT_REF_SLUG
+      else
+        export CI_APPLICATION_TAG=$CI_COMMIT_TAG
+      fi
+
+    - docker pull "$CI_APPLICATION_REPOSITORY:$CI_APPLICATION_TAG" ||
+      docker pull "$CI_APPLICATION_REPOSITORY:latest" ||
+      true
+
+    - /kaniko/executor
+      --context .
+      --build-arg PHP_VERSION=$PHP_VERSION
+      --cache=true
+      --destination "$CI_APPLICATION_REPOSITORY:$CI_APPLICATION_TAG"
+      --destination "$CI_APPLICATION_REPOSITORY:latest"
+
+
+#
+#
+#
+#
+
+
+.auto-deploy: &auto-deploy
+  image: "registry.gitlab.com/gitlab-org/cluster-integration/auto-deploy-image:v0.7.0"
+  stage: deploy
+  cache: { }
+  artifacts:
+    paths: [ environment_url.txt ]
+  tags:
+    - kubernetes
+  script:
+    - |
+      if [[ -z "$CI_COMMIT_TAG" ]]; then
+        export CI_APPLICATION_TAG=$CI_COMMIT_REF_SLUG
+      else
+        export CI_APPLICATION_TAG=$CI_COMMIT_TAG
+      fi
+    - auto-deploy check_kube_domain
+    - auto-deploy ensure_namespace
+    - auto-deploy initialize_tiller
+    - HELM_RELEASE_NAME=${HELM_RELEASE_NAME:0:52}
+    - export RELEASE_NAME="$HELM_RELEASE_NAME"
+    - export TILLER_NAMESPACE="$KUBE_NAMESPACE"
+    - export HELM_HOST="localhost:44134"
+    - env
+    - auto-deploy create_secret
+    - helm upgrade
+      --install
+      --atomic
+      --recreate-pods
+      --debug
+      --set imagePullPolicy=Always
+      --set ingress.hostname="$IMAGE_URL"
+      --set ingress.tls[0].hosts[0]="$IMAGE_URL"
+      --set image.repository="$CI_PROJECT_PATH/showcase"
+      --set image.tag="$CI_APPLICATION_TAG"
+      --namespace="$KUBE_NAMESPACE"
+      --set service.type="LoadBalancer"
+      --set-string controller.config.ssl-redirect=false
+      --set-string controller.config.use-forwarded-headers="true"
+      --set releaseOverride="$HELM_RELEASE_NAME" "$HELM_RELEASE_NAME" chart/apache
+
+deploy-review:
+  <<: *auto-deploy
+  variables:
+    IMAGE_URL: "ui-showcase-$CI_COMMIT_REF_SLUG.$KUBE_INGRESS_BASE_DOMAIN"  # ao alterar isto, deve-se alterar a url abaixo
+  environment:
+    name: review/$CI_COMMIT_REF_NAME
+    url: https://ui-showcase-$CI_COMMIT_REF_SLUG.$KUBE_INGRESS_BASE_DOMAIN
+    auto_stop_in: 5 days
+    on_stop: stop_review
+  only:
+    refs:
+      - branches
+      - tags
+    kubernetes: active
+  except:
+    refs:
+      - master
+    variables:
+      - $REVIEW_DISABLED
+
+
+
+deploy-prod:
+  <<: *auto-deploy
+  variables:
+    IMAGE_URL: "ui-showcase.$KUBE_INGRESS_BASE_DOMAIN"  # ao alterar isto, deve-se alterar a url abaixo
+  environment:
+    name: production
+    url: https://ui-showcase.$KUBE_INGRESS_BASE_DOMAIN
+  when: manual
+  only:
+    refs:
+      - master
+    kubernetes: active
+
+
+
+
+#
+#
+#
+#
+
+stop_review:
+  image: "registry.gitlab.com/gitlab-org/cluster-integration/auto-deploy-image:v0.7.0"
+  stage: cleanup
+  cache: { }
+  tags:
+    - kubernetes
+  variables:
+    GIT_STRATEGY: none
+  environment:
+    name: review/$CI_COMMIT_REF_NAME
+    action: stop
+  when: manual
+  allow_failure: true
+  only:
+    refs:
+      - branches
+      - tags
+    kubernetes: active
+  except:
+    refs:
+      - master
+    variables:
+      - $REVIEW_DISABLED
+  script:
+    - auto-deploy initialize_tiller
+    - HELM_RELEASE_NAME=${HELM_RELEASE_NAME:0:52}
+    - export RELEASE_NAME="$HELM_RELEASE_NAME"
+    - export TILLER_NAMESPACE="$KUBE_NAMESPACE"
+    - export HELM_HOST="localhost:44134"
+    - helm ls --all --short
+    - helm delete "$HELM_RELEASE_NAME" --purge
+    - kubectl -n "$KUBE_NAMESPACE" delete pvc --all
+
+
+#
+#
+#
+#
+
+
+
+
+pages:
+  cache: { }
+  allow_failure: true
+  stage: deploy
+  only:
+    refs:
+      - master
+  dependencies:
+    - test:unit
+  artifacts:
+    paths:
+      - public/
+  script:
+    - mv tests/_reports public
+
+
+deploy-composer:
+  only:
+    - tags
+  stage: deploy
+  script:
+    - 'curl
+      --fail
+      --header "Job-Token: ${CI_JOB_TOKEN}"
+      --data tag=${CI_COMMIT_TAG}
+      "${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/composer"
+      '

@@ -1,0 +1,33 @@
+{
+    "name": "windwalker/di",
+    "type": "windwalker-package",
+    "description": "Windwalker DI package",
+    "keywords": ["windwalker", "framework", "di"],
+    "homepage": "https://github.com/ventoviro/windwalker-di",
+    "license": "LGPL-2.0-or-later",
+    "require": {
+        "php": ">=7.1.3",
+        "psr/container": "^1.0",
+        "windwalker/structure": "~3.0"
+    },
+    "require-dev": {
+        "windwalker/test": "~3.0",
+        "doctrine/annotations": "~1.0",
+        "php-di/phpdoc-reader": "~2.0"
+    },
+    "suggest": {
+        "doctrine/annotations": "Install ~1.0 to support DI annotations injectable.",
+        "php-di/phpdoc-reader": "Install ~2.0 to support DI annotations injectable."
+    },
+    "minimum-stability": "beta",
+    "autoload": {
+        "psr-4": {
+            "Windwalker\\DI\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.x-dev"
+        }
+    }
+}

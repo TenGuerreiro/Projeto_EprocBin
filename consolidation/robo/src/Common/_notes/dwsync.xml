@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="TimeKeeper.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="Timer.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="CommandReceiver.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="OutputAdapter.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="ResourceExistenceChecker.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="IO.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="ConfigAwareTrait.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="ProcessUtils.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="ProcessExecutor.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="ExecCommand.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="ExecOneCommand.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="OutputAwareTrait.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="ProgressIndicatorAwareTrait.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="VerbosityThresholdTrait.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="TaskIO.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="InflectionTrait.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="InputAwareTrait.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="DynamicParams.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="BuilderAwareTrait.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="CommandArguments.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="ProgressIndicator.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+<file name="ExecTrait.php" server="10.244.88.40//opt/" local="133042818490000000" remote="133042818490000000" Dst="0" />
+</dwsync>

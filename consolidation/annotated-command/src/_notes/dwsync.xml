@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandCreationListenerInterface.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="OutputDataInterface.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="ResultWriter.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="AnnotatedCommandFactory.php" server="10.244.88.40//opt/" local="133042818340000000" remote="133042818340000000" Dst="0" />
+<file name="CommandInfoAltererInterface.php" server="10.244.88.40//opt/" local="133042818340000000" remote="133042818340000000" Dst="0" />
+<file name="AnnotatedCommand.php" server="10.244.88.40//opt/" local="133042818340000000" remote="133042818340000000" Dst="0" />
+<file name="CommandProcessor.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="CommandData.php" server="10.244.88.40//opt/" local="133042818340000000" remote="133042818340000000" Dst="0" />
+<file name="CommandFileDiscovery.php" server="10.244.88.40//opt/" local="133042818340000000" remote="133042818340000000" Dst="0" />
+<file name="CommandError.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="AnnotationData.php" server="10.244.88.40//opt/" local="133042818340000000" remote="133042818340000000" Dst="0" />
+<file name="CommandCreationListener.php" server="10.244.88.40//opt/" local="133042818340000000" remote="133042818340000000" Dst="0" />
+<file name="CommandResult.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="ParameterInjector.php" server="10.244.88.40//opt/" local="133042818330000000" remote="133042818330000000" Dst="0" />
+<file name="ExitCodeInterface.php" server="10.244.88.40//opt/" local="133042818330000000" remote="133042818330000000" Dst="0" />
+<file name="ParameterInjection.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+</dwsync>

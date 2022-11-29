@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EmptyStatementStandard.xml" server="10.244.88.40//opt/" local="133042821060000000" remote="133042821060000000" Dst="0" />
+<file name="AssignmentInConditionStandard.xml" server="10.244.88.40//opt/" local="133042821060000000" remote="133042821060000000" Dst="0" />
+<file name="UnconditionalIfStatementStandard.xml" server="10.244.88.40//opt/" local="133042821060000000" remote="133042821060000000" Dst="0" />
+<file name="UselessOverridingMethodStandard.xml" server="10.244.88.40//opt/" local="133042821060000000" remote="133042821060000000" Dst="0" />
+<file name="ForLoopShouldBeWhileLoopStandard.xml" server="10.244.88.40//opt/" local="133042821060000000" remote="133042821060000000" Dst="0" />
+<file name="UnnecessaryFinalModifierStandard.xml" server="10.244.88.40//opt/" local="133042821060000000" remote="133042821060000000" Dst="0" />
+<file name="ForLoopWithTestFunctionCallStandard.xml" server="10.244.88.40//opt/" local="133042821060000000" remote="133042821060000000" Dst="0" />
+<file name="JumbledIncrementerStandard.xml" server="10.244.88.40//opt/" local="133042821060000000" remote="133042821060000000" Dst="0" />
+<file name="UnusedFunctionParameterStandard.xml" server="10.244.88.40//opt/" local="133042821060000000" remote="133042821060000000" Dst="0" />
+</dwsync>

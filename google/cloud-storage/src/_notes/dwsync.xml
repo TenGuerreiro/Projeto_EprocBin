@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EncryptionTrait.php" server="10.244.88.40//opt/" local="133042823850000000" remote="133042823850000000" Dst="0" />
+<file name="StorageClient.php" server="10.244.88.40//opt/" local="133042823860000000" remote="133042823860000000" Dst="0" />
+<file name="SigningHelper.php" server="10.244.88.40//opt/" local="133042823860000000" remote="133042823860000000" Dst="0" />
+<file name="Notification.php" server="10.244.88.40//opt/" local="133042823860000000" remote="133042823860000000" Dst="0" />
+<file name="StorageObject.php" server="10.244.88.40//opt/" local="133042823850000000" remote="133042823850000000" Dst="0" />
+<file name="Acl.php" server="10.244.88.40//opt/" local="133042823860000000" remote="133042823860000000" Dst="0" />
+<file name="HmacKey.php" server="10.244.88.40//opt/" local="133042823850000000" remote="133042823850000000" Dst="0" />
+<file name="Bucket.php" server="10.244.88.40//opt/" local="133042823850000000" remote="133042823850000000" Dst="0" />
+<file name="WriteStream.php" server="10.244.88.40//opt/" local="133042823860000000" remote="133042823860000000" Dst="0" />
+<file name="CreatedHmacKey.php" server="10.244.88.40//opt/" local="133042823850000000" remote="133042823850000000" Dst="0" />
+<file name="Lifecycle.php" server="10.244.88.40//opt/" local="133042823860000000" remote="133042823860000000" Dst="0" />
+<file name="ObjectIterator.php" server="10.244.88.40//opt/" local="133042823860000000" remote="133042823860000000" Dst="0" />
+<file name="ReadStream.php" server="10.244.88.40//opt/" local="133042823860000000" remote="133042823860000000" Dst="0" />
+<file name="ObjectPageIterator.php" server="10.244.88.40//opt/" local="133042823860000000" remote="133042823860000000" Dst="0" />
+<file name="StreamWrapper.php" server="10.244.88.40//opt/" local="133042823860000000" remote="133042823860000000" Dst="0" />
+</dwsync>

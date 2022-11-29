@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="php_aws_crt.h" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name="awscrt.c" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name="crc.c" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name="logging.c" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name="awscrt.stub.php" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name="crt.c" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name="php_util.c" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name="stream.c" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name="event_loop.c" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name=".gitignore" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name="awscrt_arginfo.h" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name="credentials.c" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name="http.c" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+<file name="signing.c" server="10.244.88.40//opt/" local="133042823920000000" remote="133042823920000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Location.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="CompletionItem.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="TextDocumentIdentifier.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="CompletionOptions.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="Message.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="CompletionItemKind.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="DiagnosticSeverity.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="TextDocumentSyncKind.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="CompletionList.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="TextDocumentSyncOptions.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="MarkupContent.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="VersionedTextDocumentIdentifier.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="ServerCapabilities.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="FileChangeType.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="TextDocumentContentChangeEvent.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="Position.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="SaveOptions.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="Range.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="TextDocumentItem.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="CompletionContext.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="Diagnostic.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="FileEvent.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="Hover.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="ClientCapabilities.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="CompletionTriggerKind.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="InitializeResult.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+</dwsync>

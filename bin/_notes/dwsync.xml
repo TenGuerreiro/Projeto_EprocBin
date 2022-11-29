@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="dissect.php" server="10.244.88.40//opt/" local="133042825220000000" remote="133042825220000000" Dst="0" />
+<file name="phplint" server="10.244.88.40//opt/" local="133042825220000000" remote="133042825220000000" Dst="0" />
+<file name="tocheckstyle" server="10.244.88.40//opt/" local="133042825210000000" remote="133042825210000000" Dst="0" />
+<file name="php-parse" server="10.244.88.40//opt/" local="133042825210000000" remote="133042825210000000" Dst="0" />
+<file name="jp.php" server="10.244.88.40//opt/" local="133042825220000000" remote="133042825220000000" Dst="0" />
+<file name="release" server="10.244.88.40//opt/" local="133042825210000000" remote="133042825210000000" Dst="0" />
+<file name="robo" server="10.244.88.40//opt/" local="133042825210000000" remote="133042825210000000" Dst="0" />
+<file name="phpstan" server="10.244.88.40//opt/" local="133042825220000000" remote="133042825220000000" Dst="0" />
+<file name="generate_schema_objects" server="10.244.88.40//opt/" local="133042825220000000" remote="133042825220000000" Dst="0" />
+<file name="phpcs" server="10.244.88.40//opt/" local="133042825220000000" remote="133042825220000000" Dst="0" />
+<file name="dissect" server="10.244.88.40//opt/" local="133042825210000000" remote="133042825210000000" Dst="0" />
+<file name="phpstan.phar" server="10.244.88.40//opt/" local="133042825220000000" remote="133042825220000000" Dst="0" />
+<file name="phpunit" server="10.244.88.40//opt/" local="133042825220000000" remote="133042825220000000" Dst="0" />
+<file name="phan_client" server="10.244.88.40//opt/" local="133042825210000000" remote="133042825210000000" Dst="0" />
+<file name="cghooks" server="10.244.88.40//opt/" local="133042825220000000" remote="133042825220000000" Dst="0" />
+<file name="phpcbf" server="10.244.88.40//opt/" local="133042825210000000" remote="133042825210000000" Dst="0" />
+<file name="aspect" server="10.244.88.40//opt/" local="133042825210000000" remote="133042825210000000" Dst="0" />
+<file name="google-cloud-batch" server="10.244.88.40//opt/" local="133042825210000000" remote="133042825210000000" Dst="0" />
+<file name="codecept" server="10.244.88.40//opt/" local="133042825210000000" remote="133042825210000000" Dst="0" />
+<file name="phan" server="10.244.88.40//opt/" local="133042825210000000" remote="133042825210000000" Dst="0" />
+<file name="twig-linter" server="10.244.88.40//opt/" local="133042825220000000" remote="133042825220000000" Dst="0" />
+</dwsync>

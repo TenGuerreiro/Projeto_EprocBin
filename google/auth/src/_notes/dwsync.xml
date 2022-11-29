@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="GCECache.php" server="10.244.88.40//opt/" local="133042823830000000" remote="133042823830000000" Dst="0" />
+<file name="SignBlobInterface.php" server="10.244.88.40//opt/" local="133042823830000000" remote="133042823830000000" Dst="0" />
+<file name="UpdateMetadataInterface.php" server="10.244.88.40//opt/" local="133042823830000000" remote="133042823830000000" Dst="0" />
+<file name="OAuth2.php" server="10.244.88.40//opt/" local="133042823830000000" remote="133042823830000000" Dst="0" />
+<file name="GetQuotaProjectInterface.php" server="10.244.88.40//opt/" local="133042823830000000" remote="133042823830000000" Dst="0" />
+<file name="AccessToken.php" server="10.244.88.40//opt/" local="133042823820000000" remote="133042823820000000" Dst="0" />
+<file name="ApplicationDefaultCredentials.php" server="10.244.88.40//opt/" local="133042823820000000" remote="133042823820000000" Dst="0" />
+<file name="ProjectIdProviderInterface.php" server="10.244.88.40//opt/" local="133042823830000000" remote="133042823830000000" Dst="0" />
+<file name="CacheTrait.php" server="10.244.88.40//opt/" local="133042823830000000" remote="133042823830000000" Dst="0" />
+<file name="FetchAuthTokenInterface.php" server="10.244.88.40//opt/" local="133042823830000000" remote="133042823830000000" Dst="0" />
+<file name="CredentialsLoader.php" server="10.244.88.40//opt/" local="133042823830000000" remote="133042823830000000" Dst="0" />
+<file name="ServiceAccountSignerTrait.php" server="10.244.88.40//opt/" local="133042823830000000" remote="133042823830000000" Dst="0" />
+<file name="Iam.php" server="10.244.88.40//opt/" local="133042823830000000" remote="133042823830000000" Dst="0" />
+<file name="FetchAuthTokenCache.php" server="10.244.88.40//opt/" local="133042823830000000" remote="133042823830000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="SelfValueTransformer.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="FilterInjectorTransformer.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="MagicConstantTransformer.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="SelfValueVisitor.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="StreamMetaData.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="SourceTransformer.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="NodeFinderVisitor.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="BaseSourceTransformer.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="WeavingTransformer.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="CachingTransformer.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+<file name="ConstructorExecutionTransformer.php" server="10.244.88.40//opt/" local="133042818810000000" remote="133042818810000000" Dst="0" />
+</dwsync>

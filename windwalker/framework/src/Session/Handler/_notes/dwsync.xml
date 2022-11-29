@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DatabaseHandler.php" server="10.244.88.40//opt/" local="133042819100000000" remote="133042819100000000" Dst="0" />
+<file name="HandlerInterface.php" server="10.244.88.40//opt/" local="133042819100000000" remote="133042819100000000" Dst="0" />
+<file name="ApcHandler.php" server="10.244.88.40//opt/" local="133042819100000000" remote="133042819100000000" Dst="0" />
+<file name="NativeHandler.php" server="10.244.88.40//opt/" local="133042819100000000" remote="133042819100000000" Dst="0" />
+<file name="MemcachedHandler.php" server="10.244.88.40//opt/" local="133042819100000000" remote="133042819100000000" Dst="0" />
+<file name="MemcacheHandler.php" server="10.244.88.40//opt/" local="133042819100000000" remote="133042819100000000" Dst="0" />
+<file name="AbstractHandler.php" server="10.244.88.40//opt/" local="133042819100000000" remote="133042819100000000" Dst="0" />
+<file name="XcacheHandler.php" server="10.244.88.40//opt/" local="133042819100000000" remote="133042819100000000" Dst="0" />
+</dwsync>

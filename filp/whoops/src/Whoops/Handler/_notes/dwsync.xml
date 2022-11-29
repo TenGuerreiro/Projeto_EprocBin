@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="JsonResponseHandler.php" server="10.244.88.40//opt/" local="133042818190000000" remote="133042818190000000" Dst="0" />
+<file name="XmlResponseHandler.php" server="10.244.88.40//opt/" local="133042818190000000" remote="133042818190000000" Dst="0" />
+<file name="PlainTextHandler.php" server="10.244.88.40//opt/" local="133042818190000000" remote="133042818190000000" Dst="0" />
+<file name="Handler.php" server="10.244.88.40//opt/" local="133042818190000000" remote="133042818190000000" Dst="0" />
+<file name="HandlerInterface.php" server="10.244.88.40//opt/" local="133042818190000000" remote="133042818190000000" Dst="0" />
+<file name="CallbackHandler.php" server="10.244.88.40//opt/" local="133042818190000000" remote="133042818190000000" Dst="0" />
+<file name="PrettyPageHandler.php" server="10.244.88.40//opt/" local="133042818190000000" remote="133042818190000000" Dst="0" />
+</dwsync>

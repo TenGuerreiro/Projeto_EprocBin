@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Parser.php" server="10.244.88.40//opt/" local="133042818620000000" remote="133042818620000000" Dst="0" />
+<file name="ContextNode.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="AnalysisVisitor.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="PhanAnnotationAdder.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="ASTHasher.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="ASTReverter.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="ASTSimplifier.php" server="10.244.88.40//opt/" local="133042818620000000" remote="133042818620000000" Dst="0" />
+<file name="UnionTypeVisitor.php" server="10.244.88.40//opt/" local="133042818620000000" remote="133042818620000000" Dst="0" />
+</dwsync>

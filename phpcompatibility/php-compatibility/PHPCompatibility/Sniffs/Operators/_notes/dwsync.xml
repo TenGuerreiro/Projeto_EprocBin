@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="NewShortTernarySniff.php" server="10.244.88.40//opt/" local="133042819960000000" remote="133042819960000000" Dst="0" />
+<file name="RemovedTernaryAssociativitySniff.php" server="10.244.88.40//opt/" local="133042819960000000" remote="133042819960000000" Dst="0" />
+<file name="NewOperatorsSniff.php" server="10.244.88.40//opt/" local="133042819960000000" remote="133042819960000000" Dst="0" />
+<file name="ForbiddenNegativeBitshiftSniff.php" server="10.244.88.40//opt/" local="133042819960000000" remote="133042819960000000" Dst="0" />
+<file name="ChangedConcatOperatorPrecedenceSniff.php" server="10.244.88.40//opt/" local="133042819960000000" remote="133042819960000000" Dst="0" />
+</dwsync>

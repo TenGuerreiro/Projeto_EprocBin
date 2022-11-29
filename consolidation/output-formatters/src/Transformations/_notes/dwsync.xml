@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="OverrideRestructureInterface.php" server="10.244.88.40//opt/" local="133042818380000000" remote="133042818380000000" Dst="0" />
+<file name="UnstructuredDataTransformation.php" server="10.244.88.40//opt/" local="133042818380000000" remote="133042818380000000" Dst="0" />
+<file name="ReorderFields.php" server="10.244.88.40//opt/" local="133042818380000000" remote="133042818380000000" Dst="0" />
+<file name="UnstructuredDataFieldAccessor.php" server="10.244.88.40//opt/" local="133042818380000000" remote="133042818380000000" Dst="0" />
+<file name="StringTransformationInterface.php" server="10.244.88.40//opt/" local="133042818380000000" remote="133042818380000000" Dst="0" />
+<file name="SimplifyToArrayInterface.php" server="10.244.88.40//opt/" local="133042818380000000" remote="133042818380000000" Dst="0" />
+<file name="PropertyParser.php" server="10.244.88.40//opt/" local="133042818380000000" remote="133042818380000000" Dst="0" />
+<file name="TableTransformation.php" server="10.244.88.40//opt/" local="133042818380000000" remote="133042818380000000" Dst="0" />
+<file name="UnstructuredDataListTransformation.php" server="10.244.88.40//opt/" local="133042818380000000" remote="133042818380000000" Dst="0" />
+<file name="DomToArraySimplifier.php" server="10.244.88.40//opt/" local="133042818380000000" remote="133042818380000000" Dst="0" />
+<file name="PropertyListTableTransformation.php" server="10.244.88.40//opt/" local="133042818380000000" remote="133042818380000000" Dst="0" />
+<file name="WordWrapper.php" server="10.244.88.40//opt/" local="133042818380000000" remote="133042818380000000" Dst="0" />
+</dwsync>

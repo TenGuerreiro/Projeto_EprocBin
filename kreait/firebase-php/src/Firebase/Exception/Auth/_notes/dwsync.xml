@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="UserDisabled.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="InvalidOobCode.php" server="10.244.88.40//opt/" local="133042818310000000" remote="133042818310000000" Dst="0" />
+<file name="WeakPassword.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="EmailNotFound.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="ExpiredOobCode.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="UserNotFound.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="CredentialsMismatch.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="ApiConnectionFailed.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="ProviderLinkFailed.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="InvalidCustomToken.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="PhoneNumberExists.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="MissingPassword.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="AuthError.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="OperationNotAllowed.php" server="10.244.88.40//opt/" local="133042818310000000" remote="133042818310000000" Dst="0" />
+<file name="InvalidPassword.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="RevokedIdToken.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="EmailExists.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+</dwsync>

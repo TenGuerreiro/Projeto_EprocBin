@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="MoveAttributesFromRootToCoverage.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="CoverageTextToReport.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="CoveragePhpToReport.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="RemoveEmptyFilter.php" server="10.244.88.40//opt/" local="133042820230000000" remote="133042820230000000" Dst="0" />
+<file name="CoverageXmlToReport.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="CoverageCloverToReport.php" server="10.244.88.40//opt/" local="133042820230000000" remote="133042820230000000" Dst="0" />
+<file name="MoveAttributesFromFilterWhitelistToCoverage.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="Migration.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="RemoveLogTypes.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="MoveWhitelistExcludesToCoverage.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="CoverageHtmlToReport.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="IntroduceCoverageElement.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="LogToReportMigration.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="RemoveCacheTokensAttribute.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="ConvertLogTypes.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="UpdateSchemaLocationTo93.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+<file name="MoveWhitelistDirectoriesToCoverage.php" server="10.244.88.40//opt/" local="133042820230000000" remote="133042820230000000" Dst="0" />
+<file name="CoverageCrap4jToReport.php" server="10.244.88.40//opt/" local="133042820220000000" remote="133042820220000000" Dst="0" />
+</dwsync>

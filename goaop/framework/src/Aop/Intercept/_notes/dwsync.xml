@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassJoinpoint.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="Interceptor.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="Invocation.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="FunctionInvocation.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="ConstructorInvocation.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="MethodInvocation.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="FieldAccess.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="Joinpoint.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+</dwsync>

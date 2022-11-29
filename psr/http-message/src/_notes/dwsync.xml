@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="StreamInterface.php" server="10.244.88.40//opt/" local="133042819990000000" remote="133042819990000000" Dst="0" />
+<file name="MessageInterface.php" server="10.244.88.40//opt/" local="133042819990000000" remote="133042819990000000" Dst="0" />
+<file name="ServerRequestInterface.php" server="10.244.88.40//opt/" local="133042819990000000" remote="133042819990000000" Dst="0" />
+<file name="RequestInterface.php" server="10.244.88.40//opt/" local="133042819990000000" remote="133042819990000000" Dst="0" />
+<file name="ResponseInterface.php" server="10.244.88.40//opt/" local="133042819990000000" remote="133042819990000000" Dst="0" />
+<file name="UploadedFileInterface.php" server="10.244.88.40//opt/" local="133042820000000000" remote="133042820000000000" Dst="0" />
+<file name="UriInterface.php" server="10.244.88.40//opt/" local="133042820000000000" remote="133042820000000000" Dst="0" />
+</dwsync>

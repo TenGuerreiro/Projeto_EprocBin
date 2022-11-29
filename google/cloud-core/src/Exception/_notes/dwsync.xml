@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ServiceException.php" server="10.244.88.40//opt/" local="133042823910000000" remote="133042823910000000" Dst="0" />
+<file name="NotFoundException.php" server="10.244.88.40//opt/" local="133042823910000000" remote="133042823910000000" Dst="0" />
+<file name="DeadlineExceededException.php" server="10.244.88.40//opt/" local="133042823910000000" remote="133042823910000000" Dst="0" />
+<file name="GoogleException.php" server="10.244.88.40//opt/" local="133042823910000000" remote="133042823910000000" Dst="0" />
+<file name="BadRequestException.php" server="10.244.88.40//opt/" local="133042823910000000" remote="133042823910000000" Dst="0" />
+<file name="AbortedException.php" server="10.244.88.40//opt/" local="133042823910000000" remote="133042823910000000" Dst="0" />
+<file name="ServerException.php" server="10.244.88.40//opt/" local="133042823910000000" remote="133042823910000000" Dst="0" />
+<file name="ConflictException.php" server="10.244.88.40//opt/" local="133042823910000000" remote="133042823910000000" Dst="0" />
+<file name="FailedPreconditionException.php" server="10.244.88.40//opt/" local="133042823910000000" remote="133042823910000000" Dst="0" />
+</dwsync>

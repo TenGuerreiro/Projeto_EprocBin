@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="MessageTarget.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="ApiClient.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="AndroidConfig.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="FcmOptions.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="RawMessageFromArray.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="Message.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="Topic.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="RegistrationTokens.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="TopicSubscription.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="Notification.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="WebPushConfig.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="CloudMessage.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="MulticastSendReport.php" server="10.244.88.40//opt/" local="133042818290000000" remote="133042818290000000" Dst="0" />
+<file name="RegistrationToken.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="ApnsConfig.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="Messages.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="AppInstanceApiClient.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="SendReport.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="TopicSubscriptions.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="AppInstance.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="MessageData.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+<file name="Condition.php" server="10.244.88.40//opt/" local="133042818280000000" remote="133042818280000000" Dst="0" />
+</dwsync>

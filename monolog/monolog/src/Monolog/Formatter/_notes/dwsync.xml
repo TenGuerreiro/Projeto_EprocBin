@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ChromePHPFormatter.php" server="10.244.88.40//opt/" local="133042819920000000" remote="133042819920000000" Dst="0" />
+<file name="JsonFormatter.php" server="10.244.88.40//opt/" local="133042819910000000" remote="133042819910000000" Dst="0" />
+<file name="NormalizerFormatter.php" server="10.244.88.40//opt/" local="133042819910000000" remote="133042819910000000" Dst="0" />
+<file name="ElasticaFormatter.php" server="10.244.88.40//opt/" local="133042819910000000" remote="133042819910000000" Dst="0" />
+<file name="HtmlFormatter.php" server="10.244.88.40//opt/" local="133042819910000000" remote="133042819910000000" Dst="0" />
+<file name="ScalarFormatter.php" server="10.244.88.40//opt/" local="133042819910000000" remote="133042819910000000" Dst="0" />
+<file name="GelfMessageFormatter.php" server="10.244.88.40//opt/" local="133042819920000000" remote="133042819920000000" Dst="0" />
+<file name="FluentdFormatter.php" server="10.244.88.40//opt/" local="133042819920000000" remote="133042819920000000" Dst="0" />
+<file name="FlowdockFormatter.php" server="10.244.88.40//opt/" local="133042819920000000" remote="133042819920000000" Dst="0" />
+<file name="MongoDBFormatter.php" server="10.244.88.40//opt/" local="133042819920000000" remote="133042819920000000" Dst="0" />
+<file name="ElasticsearchFormatter.php" server="10.244.88.40//opt/" local="133042819920000000" remote="133042819920000000" Dst="0" />
+<file name="LogstashFormatter.php" server="10.244.88.40//opt/" local="133042819910000000" remote="133042819910000000" Dst="0" />
+<file name="FormatterInterface.php" server="10.244.88.40//opt/" local="133042819920000000" remote="133042819920000000" Dst="0" />
+<file name="LogmaticFormatter.php" server="10.244.88.40//opt/" local="133042819920000000" remote="133042819920000000" Dst="0" />
+<file name="WildfireFormatter.php" server="10.244.88.40//opt/" local="133042819920000000" remote="133042819920000000" Dst="0" />
+<file name="LineFormatter.php" server="10.244.88.40//opt/" local="133042819910000000" remote="133042819910000000" Dst="0" />
+<file name="LogglyFormatter.php" server="10.244.88.40//opt/" local="133042819920000000" remote="133042819920000000" Dst="0" />
+</dwsync>

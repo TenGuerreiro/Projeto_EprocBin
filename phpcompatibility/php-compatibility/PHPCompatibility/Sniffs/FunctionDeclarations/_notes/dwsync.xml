@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="NewNullableTypesSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="NewReturnTypeDeclarationsSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="NewExceptionsFromToStringSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="ForbiddenParametersWithSameNameSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="ForbiddenParameterShadowSuperGlobalsSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="ForbiddenVariableNamesInClosureUseSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="NewClosureSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="NewParamTypeDeclarationsSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="NonStaticMagicMethodsSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="ForbiddenToStringParametersSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+</dwsync>

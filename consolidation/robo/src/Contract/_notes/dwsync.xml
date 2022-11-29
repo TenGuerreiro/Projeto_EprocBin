@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="OutputAdapterInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="IOAwareInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="PrintedInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="WrappedTaskInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="InflectionInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="RollbackInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="CommandInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="BuilderAwareInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="ConfigAwareInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="SimulatedInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="CompletionInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="ProgressInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="OutputAwareInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="ProgressIndicatorAwareInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="TaskInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+<file name="VerbosityThresholdInterface.php" server="10.244.88.40//opt/" local="133042818430000000" remote="133042818430000000" Dst="0" />
+</dwsync>

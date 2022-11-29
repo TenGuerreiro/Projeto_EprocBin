@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="RuntimeException.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="AuthException.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="ServiceAccountDiscoveryFailed.php" server="10.244.88.40//opt/" local="133042818330000000" remote="133042818330000000" Dst="0" />
+<file name="AuthApiExceptionConverter.php" server="10.244.88.40//opt/" local="133042818310000000" remote="133042818310000000" Dst="0" />
+<file name="FirebaseException.php" server="10.244.88.40//opt/" local="133042818310000000" remote="133042818310000000" Dst="0" />
+<file name="LogicException.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="10.244.88.40//opt/" local="133042818330000000" remote="133042818330000000" Dst="0" />
+<file name="DatabaseApiExceptionConverter.php" server="10.244.88.40//opt/" local="133042818310000000" remote="133042818310000000" Dst="0" />
+<file name="MessagingException.php" server="10.244.88.40//opt/" local="133042818310000000" remote="133042818310000000" Dst="0" />
+<file name="MessagingApiExceptionConverter.php" server="10.244.88.40//opt/" local="133042818330000000" remote="133042818330000000" Dst="0" />
+<file name="OutOfRangeException.php" server="10.244.88.40//opt/" local="133042818310000000" remote="133042818310000000" Dst="0" />
+<file name="HasErrors.php" server="10.244.88.40//opt/" local="133042818330000000" remote="133042818330000000" Dst="0" />
+<file name="DatabaseException.php" server="10.244.88.40//opt/" local="133042818310000000" remote="133042818310000000" Dst="0" />
+<file name="RemoteConfigException.php" server="10.244.88.40//opt/" local="133042818310000000" remote="133042818310000000" Dst="0" />
+<file name="RemoteConfigApiExceptionConverter.php" server="10.244.88.40//opt/" local="133042818310000000" remote="133042818310000000" Dst="0" />
+</dwsync>

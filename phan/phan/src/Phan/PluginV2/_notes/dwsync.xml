@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="PluginAwarePostAnalysisVisitor.php" server="10.244.88.40//opt/" local="133042818550000000" remote="133042818550000000" Dst="0" />
+<file name="HandleLazyLoadInternalFunctionCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="AfterAnalyzeFileCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="AnalyzeClassCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="PostAnalyzeNodeCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="StopParamAnalysisException.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="BeforeAnalyzeCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="BeforeAnalyzeFileCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="PluginAwareBaseAnalysisVisitor.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="AutomaticFixCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="ReturnTypeOverrideCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="IssueEmitter.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="AnalyzeFunctionCallCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="AnalyzeFunctionCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="AnalyzeMethodCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="AnalyzePropertyCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="FinalizeProcessCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="PluginAwarePreAnalysisVisitor.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="PreAnalyzeNodeCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+<file name="SuppressionCapability.php" server="10.244.88.40//opt/" local="133042818540000000" remote="133042818540000000" Dst="0" />
+</dwsync>

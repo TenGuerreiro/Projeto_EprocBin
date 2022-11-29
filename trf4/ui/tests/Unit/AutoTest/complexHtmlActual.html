@@ -1,0 +1,103 @@
+<div class="hue">
+    <a title="2">a</a>
+    <script>
+        /*comum*/
+        function clearSelect(el) {
+            el.disabled = true;
+            el.innerHTML = '';
+            $("#" + el.id).selectpicker('refresh');
+        }
+
+        //comum
+        function hideSpinner(spinnerPlaceholder) {
+            spinnerPlaceholder.style = 'display:none;';
+        }
+
+        function showSpinner(spinnerPlaceholder) {
+            spinnerPlaceholder.style = '';
+        }
+
+        //todo formatar o resultado (nao posso garantir que vai ser sempre innerHTML, value e data
+
+        (function () {
+
+
+            var country = document.getElementById("id_country2")
+
+            //todo quem gera isso é o pai né... assim vai ter duplicatas no caso de mais de um elemento dependente
+            function getSelectCountriesData(el) {
+                var selectedOption = el.selectedOptions[0];
+                var data = {
+                    innerHTML: selectedOption.innerHTML,
+                    value: selectedOption.value,
+                    data: selectedOption.dataset
+                };
+                return data;
+            }
+
+            var childId = "select_dependency";
+            var childEl = document.getElementById(childId);
+
+            //tratamento do evento por parte do states
+            $(country).change(function (e) {
+                var select = this;
+                var data = getSelectCountriesData(select);
+                var param = data.innerHTML;
+                var placeholder = "Select a state";
+                var spinnerPlaceholderId = "select_dependency-spinner";
+                var spinnerPlaceholder = document.getElementById(spinnerPlaceholderId);
+
+                clearSelect(childEl);
+
+                if (select.value) {
+
+                    showSpinner(spinnerPlaceholder);
+
+                    axios.get("states", {params: {country: country.value}})
+                        .then(function (data) {
+                            childEl.disabled = false;
+                            addOptionsToSelect(placeholder, childEl, data.data);
+                        })
+                        .catch(function (error) {
+                            console.error(error); //todo exibir algo personalizado
+                        })
+                        .finally(function () {
+                            hideSpinner(spinnerPlaceholder);
+                        });
+                } else {
+                    setChildSelectDisabled("Select a country...", childEl);
+                }
+            });
+
+            function setChildSelectDisabled(placeholder, select) {
+                childEl.disabled = true;
+                addOptionsToSelect(placeholder, select, []);
+            }
+
+
+            function addOptionsToSelect(placeholder, select, setOptions) {
+                var optionsHTML = '<option>' + placeholder + '</option>';
+
+                setOptions.forEach(function (v, k) {
+                    var value = k;
+                    var innerHTML = v;
+                    var dataset = [];
+                    Object.getOwnPropertyNames({}).forEach(function (returnAttr, optionAttr) {
+                        var returnValue = o[returnAttr];
+                        dataset.push(optionAttr + '="' + returnValue + '"');
+                    });
+
+                    var optionAttrsString = dataset.join(' ');
+
+                    optionsHTML += '<option value="' + value + '" ' + optionAttrsString + '>' + innerHTML + '</option>';
+                });
+
+                select.innerHTML = optionsHTML;
+                $("#" + select.id).selectpicker('refresh');
+
+            }
+
+            $(country).change();
+        })();
+    </script>
+</div>

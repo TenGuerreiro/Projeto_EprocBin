@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="InvalidVariableIssetPlugin.php" server="10.244.88.40//opt/" local="133042818690000000" remote="133042818690000000" Dst="0" />
+<file name="UnknownElementTypePlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="UseReturnValuePlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="AlwaysReturnPlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="NonBoolBranchPlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="NoAssertPlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="PregRegexCheckerPlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="DuplicateArrayKeyPlugin.php" server="10.244.88.40//opt/" local="133042818690000000" remote="133042818690000000" Dst="0" />
+<file name="FFIAnalysisPlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="UnusedSuppressionPlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="PHPUnitNotDeadCodePlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="PHPUnitAssertionPlugin.php" server="10.244.88.40//opt/" local="133042818690000000" remote="133042818690000000" Dst="0" />
+<file name="WhitespacePlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="SleepCheckerPlugin.php" server="10.244.88.40//opt/" local="133042818690000000" remote="133042818690000000" Dst="0" />
+<file name="PhanSelfCheckPlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="NonBoolInLogicalArithPlugin.php" server="10.244.88.40//opt/" local="133042818690000000" remote="133042818690000000" Dst="0" />
+<file name="NumericalComparisonPlugin.php" server="10.244.88.40//opt/" local="133042818690000000" remote="133042818690000000" Dst="0" />
+<file name="UnreachableCodePlugin.php" server="10.244.88.40//opt/" local="133042818690000000" remote="133042818690000000" Dst="0" />
+<file name="NotFullyQualifiedUsagePlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="InvokePHPNativeSyntaxCheckPlugin.php" server="10.244.88.40//opt/" local="133042818690000000" remote="133042818690000000" Dst="0" />
+<file name="PossiblyStaticMethodPlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="README.md" server="10.244.88.40//opt/" local="133042818690000000" remote="133042818690000000" Dst="0" />
+<file name="DemoPlugin.php" server="10.244.88.40//opt/" local="133042818690000000" remote="133042818690000000" Dst="0" />
+<file name="DuplicateExpressionPlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="DollarDollarPlugin.php" server="10.244.88.40//opt/" local="133042818690000000" remote="133042818690000000" Dst="0" />
+<file name="PrintfCheckerPlugin.php" server="10.244.88.40//opt/" local="133042818690000000" remote="133042818690000000" Dst="0" />
+<file name="SuspiciousParamOrderPlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+<file name="HasPHPDocPlugin.php" server="10.244.88.40//opt/" local="133042818700000000" remote="133042818700000000" Dst="0" />
+</dwsync>

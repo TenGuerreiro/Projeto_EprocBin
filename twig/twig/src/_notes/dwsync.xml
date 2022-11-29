@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="TwigFilter.php" server="10.244.88.40//opt/" local="133042817800000000" remote="133042817800000000" Dst="0" />
+<file name="Parser.php" server="10.244.88.40//opt/" local="133042817870000000" remote="133042817870000000" Dst="0" />
+<file name="Environment.php" server="10.244.88.40//opt/" local="133042817860000000" remote="133042817860000000" Dst="0" />
+<file name="NodeTraverser.php" server="10.244.88.40//opt/" local="133042817860000000" remote="133042817860000000" Dst="0" />
+<file name="ExtensionSet.php" server="10.244.88.40//opt/" local="133042817870000000" remote="133042817870000000" Dst="0" />
+<file name="FileExtensionEscapingStrategy.php" server="10.244.88.40//opt/" local="133042817810000000" remote="133042817810000000" Dst="0" />
+<file name="TemplateWrapper.php" server="10.244.88.40//opt/" local="133042817870000000" remote="133042817870000000" Dst="0" />
+<file name="Compiler.php" server="10.244.88.40//opt/" local="133042817810000000" remote="133042817810000000" Dst="0" />
+<file name="Source.php" server="10.244.88.40//opt/" local="133042817800000000" remote="133042817800000000" Dst="0" />
+<file name="TwigFunction.php" server="10.244.88.40//opt/" local="133042817810000000" remote="133042817810000000" Dst="0" />
+<file name="Markup.php" server="10.244.88.40//opt/" local="133042817800000000" remote="133042817800000000" Dst="0" />
+<file name="Template.php" server="10.244.88.40//opt/" local="133042817820000000" remote="133042817820000000" Dst="0" />
+<file name="ExpressionParser.php" server="10.244.88.40//opt/" local="133042817860000000" remote="133042817860000000" Dst="0" />
+<file name="Lexer.php" server="10.244.88.40//opt/" local="133042817870000000" remote="133042817870000000" Dst="0" />
+<file name="TokenStream.php" server="10.244.88.40//opt/" local="133042817810000000" remote="133042817810000000" Dst="0" />
+<file name="Token.php" server="10.244.88.40//opt/" local="133042817860000000" remote="133042817860000000" Dst="0" />
+<file name="TwigTest.php" server="10.244.88.40//opt/" local="133042817820000000" remote="133042817820000000" Dst="0" />
+</dwsync>

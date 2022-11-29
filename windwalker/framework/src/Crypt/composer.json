@@ -1,0 +1,29 @@
+{
+    "name": "windwalker/crypt",
+    "type": "windwalker-package",
+    "description": "Windwalker Crypt package",
+    "keywords": ["windwalker", "framework", "crypt", "libsodium", "bcrypt", "argon2", "scrypt"],
+    "homepage": "https://github.com/ventoviro/windwalker-crypt",
+    "license": "LGPL-2.0-or-later",
+    "require": {
+        "php": ">=7.1.3"
+    },
+    "require-dev": {
+        "windwalker/test": "~3.0"
+    },
+    "minimum-stability": "beta",
+    "autoload": {
+        "psr-4": {
+            "Windwalker\\Crypt\\": ""
+        }
+    },
+    "suggest": {
+        "paragonie/sodium_compat": "Install paragonie/sodium_compat if you want to SodiumCipher.",
+        "ext-libsodium": "Install php-libsodium if you want to use SodiumCipher with higher performance and use Argon2 or Scrypt password hash."
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.x-dev"
+        }
+    }
+}

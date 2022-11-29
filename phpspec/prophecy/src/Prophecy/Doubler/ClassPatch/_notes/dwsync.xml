@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ProphecySubjectPatch.php" server="10.244.88.40//opt/" local="133042819740000000" remote="133042819740000000" Dst="0" />
+<file name="KeywordPatch.php" server="10.244.88.40//opt/" local="133042819740000000" remote="133042819740000000" Dst="0" />
+<file name="ClassPatchInterface.php" server="10.244.88.40//opt/" local="133042819740000000" remote="133042819740000000" Dst="0" />
+<file name="SplFileInfoPatch.php" server="10.244.88.40//opt/" local="133042819740000000" remote="133042819740000000" Dst="0" />
+<file name="TraversablePatch.php" server="10.244.88.40//opt/" local="133042819740000000" remote="133042819740000000" Dst="0" />
+<file name="HhvmExceptionPatch.php" server="10.244.88.40//opt/" local="133042819740000000" remote="133042819740000000" Dst="0" />
+<file name="ThrowablePatch.php" server="10.244.88.40//opt/" local="133042819740000000" remote="133042819740000000" Dst="0" />
+<file name="MagicCallPatch.php" server="10.244.88.40//opt/" local="133042819740000000" remote="133042819740000000" Dst="0" />
+<file name="ReflectionClassNewInstancePatch.php" server="10.244.88.40//opt/" local="133042819740000000" remote="133042819740000000" Dst="0" />
+<file name="DisableConstructorPatch.php" server="10.244.88.40//opt/" local="133042819740000000" remote="133042819740000000" Dst="0" />
+</dwsync>

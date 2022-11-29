@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ProtocolReader.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="ProtocolStreamReader.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="NodeInfoRequest.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="Logger.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="LanguageServer.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="CompletionRequest.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="Utils.php" server="10.244.88.40//opt/" local="133042818590000000" remote="133042818590000000" Dst="0" />
+<file name="LanguageClient.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="ProtocolWriter.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="CompletionResolver.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="IdGenerator.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="DefinitionResolver.php" server="10.244.88.40//opt/" local="133042818600000000" remote="133042818600000000" Dst="0" />
+<file name="ClientHandler.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="ProtocolStreamWriter.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="FileMapping.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+<file name="GoToDefinitionRequest.php" server="10.244.88.40//opt/" local="133042818610000000" remote="133042818610000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="UserMetaData.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="ApiClient.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="DeleteUsersResult.php" server="10.244.88.40//opt/" local="133042818270000000" remote="133042818270000000" Dst="0" />
+<file name="TenantId.php" server="10.244.88.40//opt/" local="133042818270000000" remote="133042818270000000" Dst="0" />
+<file name="IdTokenVerifier.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="SignInResult.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="UserRecord.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="SendActionLink.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="IsTenantAware.php" server="10.244.88.40//opt/" local="133042818270000000" remote="133042818270000000" Dst="0" />
+<file name="SignInWithEmailAndPassword.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="CreateSessionCookie.php" server="10.244.88.40//opt/" local="133042818270000000" remote="133042818270000000" Dst="0" />
+<file name="UserInfo.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="SignInAnonymously.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="DisabledLegacyIdTokenVerifier.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="DisabledLegacyCustomTokenGenerator.php" server="10.244.88.40//opt/" local="133042818270000000" remote="133042818270000000" Dst="0" />
+<file name="SignIn.php" server="10.244.88.40//opt/" local="133042818270000000" remote="133042818270000000" Dst="0" />
+<file name="SignInWithEmailAndOobCode.php" server="10.244.88.40//opt/" local="133042818270000000" remote="133042818270000000" Dst="0" />
+<file name="SignInWithCustomToken.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="SignInWithIdpCredentials.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="DeleteUsersRequest.php" server="10.244.88.40//opt/" local="133042818270000000" remote="133042818270000000" Dst="0" />
+<file name="CustomTokenViaGoogleIam.php" server="10.244.88.40//opt/" local="133042818270000000" remote="133042818270000000" Dst="0" />
+<file name="ActionCodeSettings.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="CreateActionLink.php" server="10.244.88.40//opt/" local="133042818260000000" remote="133042818260000000" Dst="0" />
+<file name="SignInWithRefreshToken.php" server="10.244.88.40//opt/" local="133042818270000000" remote="133042818270000000" Dst="0" />
+</dwsync>

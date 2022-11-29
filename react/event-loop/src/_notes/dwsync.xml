@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Factory.php" server="10.244.88.40//opt/" local="133042817730000000" remote="133042817730000000" Dst="0" />
+<file name="StreamSelectLoop.php" server="10.244.88.40//opt/" local="133042817730000000" remote="133042817730000000" Dst="0" />
+<file name="SignalsHandler.php" server="10.244.88.40//opt/" local="133042817740000000" remote="133042817740000000" Dst="0" />
+<file name="ExtEvLoop.php" server="10.244.88.40//opt/" local="133042817730000000" remote="133042817730000000" Dst="0" />
+<file name="ExtLibevLoop.php" server="10.244.88.40//opt/" local="133042817730000000" remote="133042817730000000" Dst="0" />
+<file name="ExtUvLoop.php" server="10.244.88.40//opt/" local="133042817730000000" remote="133042817730000000" Dst="0" />
+<file name="ExtEventLoop.php" server="10.244.88.40//opt/" local="133042817730000000" remote="133042817730000000" Dst="0" />
+<file name="LoopInterface.php" server="10.244.88.40//opt/" local="133042817730000000" remote="133042817730000000" Dst="0" />
+<file name="ExtLibeventLoop.php" server="10.244.88.40//opt/" local="133042817740000000" remote="133042817740000000" Dst="0" />
+<file name="TimerInterface.php" server="10.244.88.40//opt/" local="133042817730000000" remote="133042817730000000" Dst="0" />
+<file name="Loop.php" server="10.244.88.40//opt/" local="133042817730000000" remote="133042817730000000" Dst="0" />
+</dwsync>

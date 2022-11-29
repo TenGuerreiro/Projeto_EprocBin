@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EncryptCookies.php" server="10.244.88.40//opt/" local="133042821870000000" remote="133042821870000000" Dst="0" />
+<file name="VerifyCsrfToken.php" server="10.244.88.40//opt/" local="133042821860000000" remote="133042821860000000" Dst="0" />
+<file name="Authenticate.php" server="10.244.88.40//opt/" local="133042821860000000" remote="133042821860000000" Dst="0" />
+<file name="CacheResponse.php" server="10.244.88.40//opt/" local="133042821860000000" remote="133042821860000000" Dst="0" />
+<file name="RedirectIfAuthenticated.php" server="10.244.88.40//opt/" local="133042821860000000" remote="133042821860000000" Dst="0" />
+<file name="TrustProxies.php" server="10.244.88.40//opt/" local="133042821870000000" remote="133042821870000000" Dst="0" />
+<file name="CheckForMaintenanceMode.php" server="10.244.88.40//opt/" local="133042821860000000" remote="133042821860000000" Dst="0" />
+<file name="TrimStrings.php" server="10.244.88.40//opt/" local="133042821860000000" remote="133042821860000000" Dst="0" />
+<file name="SetUIRenderer.php" server="10.244.88.40//opt/" local="133042821860000000" remote="133042821860000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="HookManager.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="InitializeHookInterface.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="ValidatorInterface.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="ProcessResultInterface.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="StatusDeterminerInterface.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="AlterResultInterface.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="ExtractOutputInterface.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="InteractorInterface.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+<file name="OptionHookInterface.php" server="10.244.88.40//opt/" local="133042818350000000" remote="133042818350000000" Dst="0" />
+</dwsync>

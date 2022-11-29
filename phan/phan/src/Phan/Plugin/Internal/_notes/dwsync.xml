@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClosureReturnTypeOverridePlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+<file name="CompactPlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+<file name="MiscParamPlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+<file name="VariableTrackerPlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+<file name="CallableParamPlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+<file name="MethodSearcherPluginLoader.php" server="10.244.88.40//opt/" local="133042818590000000" remote="133042818590000000" Dst="0" />
+<file name="RequireExistsPlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+<file name="NodeSelectionPlugin.php" server="10.244.88.40//opt/" local="133042818590000000" remote="133042818590000000" Dst="0" />
+<file name="DependentReturnTypeOverridePlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+<file name="MethodSearcherPlugin.php" server="10.244.88.40//opt/" local="133042818590000000" remote="133042818590000000" Dst="0" />
+<file name="BuiltinSuppressionPlugin.php" server="10.244.88.40//opt/" local="133042818590000000" remote="133042818590000000" Dst="0" />
+<file name="StringFunctionPlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+<file name="DumpPHPDocPlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+<file name="IssueFixingPlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+<file name="ThrowAnalyzerPlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+<file name="ExtendedDependentReturnTypeOverridePlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+<file name="ArrayReturnTypeOverridePlugin.php" server="10.244.88.40//opt/" local="133042818580000000" remote="133042818580000000" Dst="0" />
+</dwsync>

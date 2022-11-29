@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="NullCoalesceExpression.php" server="10.244.88.40//opt/" local="133042817830000000" remote="133042817830000000" Dst="0" />
+<file name="NameExpression.php" server="10.244.88.40//opt/" local="133042817830000000" remote="133042817830000000" Dst="0" />
+<file name="CallExpression.php" server="10.244.88.40//opt/" local="133042817840000000" remote="133042817840000000" Dst="0" />
+<file name="MethodCallExpression.php" server="10.244.88.40//opt/" local="133042817830000000" remote="133042817830000000" Dst="0" />
+<file name="AssignNameExpression.php" server="10.244.88.40//opt/" local="133042817840000000" remote="133042817840000000" Dst="0" />
+<file name="InlinePrint.php" server="10.244.88.40//opt/" local="133042817830000000" remote="133042817830000000" Dst="0" />
+<file name="GetAttrExpression.php" server="10.244.88.40//opt/" local="133042817840000000" remote="133042817840000000" Dst="0" />
+<file name="ParentExpression.php" server="10.244.88.40//opt/" local="133042817830000000" remote="133042817830000000" Dst="0" />
+<file name="TestExpression.php" server="10.244.88.40//opt/" local="133042817830000000" remote="133042817830000000" Dst="0" />
+<file name="ConstantExpression.php" server="10.244.88.40//opt/" local="133042817830000000" remote="133042817830000000" Dst="0" />
+<file name="FilterExpression.php" server="10.244.88.40//opt/" local="133042817840000000" remote="133042817840000000" Dst="0" />
+<file name="ArrowFunctionExpression.php" server="10.244.88.40//opt/" local="133042817850000000" remote="133042817850000000" Dst="0" />
+<file name="ConditionalExpression.php" server="10.244.88.40//opt/" local="133042817830000000" remote="133042817830000000" Dst="0" />
+<file name="FunctionExpression.php" server="10.244.88.40//opt/" local="133042817830000000" remote="133042817830000000" Dst="0" />
+<file name="VariadicExpression.php" server="10.244.88.40//opt/" local="133042817840000000" remote="133042817840000000" Dst="0" />
+<file name="ArrayExpression.php" server="10.244.88.40//opt/" local="133042817850000000" remote="133042817850000000" Dst="0" />
+<file name="AbstractExpression.php" server="10.244.88.40//opt/" local="133042817840000000" remote="133042817840000000" Dst="0" />
+<file name="BlockReferenceExpression.php" server="10.244.88.40//opt/" local="133042817830000000" remote="133042817830000000" Dst="0" />
+<file name="TempNameExpression.php" server="10.244.88.40//opt/" local="133042817830000000" remote="133042817830000000" Dst="0" />
+</dwsync>

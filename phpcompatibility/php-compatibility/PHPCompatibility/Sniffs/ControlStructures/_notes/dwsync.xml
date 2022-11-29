@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ForbiddenBreakContinueOutsideLoopSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="ForbiddenSwitchWithMultipleDefaultBlocksSniff.php" server="10.244.88.40//opt/" local="133042819960000000" remote="133042819960000000" Dst="0" />
+<file name="ForbiddenBreakContinueVariableArgumentsSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="NewForeachExpressionReferencingSniff.php" server="10.244.88.40//opt/" local="133042819960000000" remote="133042819960000000" Dst="0" />
+<file name="NewListInForeachSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="DiscouragedSwitchContinueSniff.php" server="10.244.88.40//opt/" local="133042819970000000" remote="133042819970000000" Dst="0" />
+<file name="NewExecutionDirectivesSniff.php" server="10.244.88.40//opt/" local="133042819960000000" remote="133042819960000000" Dst="0" />
+<file name="NewMultiCatchSniff.php" server="10.244.88.40//opt/" local="133042819960000000" remote="133042819960000000" Dst="0" />
+</dwsync>

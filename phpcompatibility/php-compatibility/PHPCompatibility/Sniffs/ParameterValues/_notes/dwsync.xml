@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="RemovedNonCryptoHashSniff.php" server="10.244.88.40//opt/" local="133042819930000000" remote="133042819930000000" Dst="0" />
+<file name="ForbiddenGetClassNullSniff.php" server="10.244.88.40//opt/" local="133042819930000000" remote="133042819930000000" Dst="0" />
+<file name="RemovedHashAlgorithmsSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="RemovedIconvEncodingSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="ForbiddenStripTagsSelfClosingXHTMLSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="NewNegativeStringOffsetSniff.php" server="10.244.88.40//opt/" local="133042819930000000" remote="133042819930000000" Dst="0" />
+<file name="RemovedSetlocaleStringSniff.php" server="10.244.88.40//opt/" local="133042819930000000" remote="133042819930000000" Dst="0" />
+<file name="NewArrayReduceInitialTypeSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="NewPasswordAlgoConstantValuesSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="NewPCREModifiersSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="RemovedImplodeFlexibleParamOrderSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="RemovedMbstringModifiersSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="RemovedPCREModifiersSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="NewIconvMbstringCharsetDefaultSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="NewStripTagsAllowableTagsArraySniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="NewHashAlgorithmsSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="NewProcOpenCmdArraySniff.php" server="10.244.88.40//opt/" local="133042819930000000" remote="133042819930000000" Dst="0" />
+<file name="NewPackFormatSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="RemovedMbStrrposEncodingThirdParamSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="NewHTMLEntitiesEncodingDefaultSniff.php" server="10.244.88.40//opt/" local="133042819930000000" remote="133042819930000000" Dst="0" />
+<file name="NewFopenModesSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+<file name="NewIDNVariantDefaultSniff.php" server="10.244.88.40//opt/" local="133042819940000000" remote="133042819940000000" Dst="0" />
+</dwsync>

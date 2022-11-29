@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="no_last_boundary.txt" server="10.244.88.40//opt/" local="133042825230000000" remote="133042825230000000" Dst="0" />
+<file name="simple_multipart.txt" server="10.244.88.40//opt/" local="133042825220000000" remote="133042825220000000" Dst="0" />
+<file name="email_base64.txt" server="10.244.88.40//opt/" local="133042825230000000" remote="133042825230000000" Dst="0" />
+<file name="quoted_printable.txt" server="10.244.88.40//opt/" local="133042825220000000" remote="133042825220000000" Dst="0" />
+<file name="no_multipart.txt" server="10.244.88.40//opt/" local="133042825230000000" remote="133042825230000000" Dst="0" />
+<file name="no_first_boundary.txt" server="10.244.88.40//opt/" local="133042825230000000" remote="133042825230000000" Dst="0" />
+<file name="nested_multipart.txt" server="10.244.88.40//opt/" local="133042825230000000" remote="133042825230000000" Dst="0" />
+<file name="no_boundary.txt" server="10.244.88.40//opt/" local="133042825230000000" remote="133042825230000000" Dst="0" />
+</dwsync>

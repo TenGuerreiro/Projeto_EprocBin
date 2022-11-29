@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ForeverFileStorage.php" server="10.244.88.40//opt/" local="133042819180000000" remote="133042819180000000" Dst="0" />
+<file name="AbstractDriverCacheStorage.php" server="10.244.88.40//opt/" local="133042819180000000" remote="133042819180000000" Dst="0" />
+<file name="NullStorage.php" server="10.244.88.40//opt/" local="133042819180000000" remote="133042819180000000" Dst="0" />
+<file name="FileStorage.php" server="10.244.88.40//opt/" local="133042819180000000" remote="133042819180000000" Dst="0" />
+<file name="RedisStorage.php" server="10.244.88.40//opt/" local="133042819180000000" remote="133042819180000000" Dst="0" />
+<file name="CacheStorageInterface.php" server="10.244.88.40//opt/" local="133042819190000000" remote="133042819190000000" Dst="0" />
+<file name="MemcachedStorage.php" server="10.244.88.40//opt/" local="133042819190000000" remote="133042819190000000" Dst="0" />
+<file name="RuntimeArrayStorage.php" server="10.244.88.40//opt/" local="133042819180000000" remote="133042819180000000" Dst="0" />
+<file name="AbstractCacheStorage.php" server="10.244.88.40//opt/" local="133042819190000000" remote="133042819190000000" Dst="0" />
+<file name="PhpFileStorage.php" server="10.244.88.40//opt/" local="133042819190000000" remote="133042819190000000" Dst="0" />
+<file name="ArrayStorage.php" server="10.244.88.40//opt/" local="133042819190000000" remote="133042819190000000" Dst="0" />
+<file name="XcacheStorage.php" server="10.244.88.40//opt/" local="133042819180000000" remote="133042819180000000" Dst="0" />
+</dwsync>

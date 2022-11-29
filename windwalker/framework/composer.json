@@ -1,0 +1,114 @@
+{
+    "name": "windwalker/framework",
+    "description": "A Modern PHP framework.",
+    "homepage": "https://github.com/ventoviro/windwalker",
+    "license": "LGPL-2.0-or-later",
+    "minimum-stability": "beta",
+    "authors": [
+        {
+            "name": "Simon Asika",
+            "email": "asika32764@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.3",
+        "psr/log": "~1.0",
+        "psr/http-message": "~1.0",
+        "psr/cache": "~1.0",
+        "psr/container": "^1.0",
+        "composer/ca-bundle": "^1.1",
+        "symfony/polyfill-php73": "^1.17",
+        "ext-json": "*",
+        "ext-curl": "*",
+        "ext-pdo": "*"
+    },
+    "require-dev": {
+        "jdorn/sql-formatter": "~1.0",
+        "symfony/yaml": "~4.0||^5.0",
+
+        "twig/twig": "~1.0",
+        "illuminate/view": "^5.0||^6.0",
+        "mustache/mustache": "~2.0",
+        "league/plates": "~3.0",
+        "paragonie/sodium_compat": "~1.0",
+        "doctrine/annotations": "~1.0",
+        "php-di/phpdoc-reader": "~2.0",
+        "laktak/hjson": "^2.1",
+        "yosymfony/toml": "^1.0",
+        "symfony/var-dumper": "^4.3||^5.0"
+    },
+    "suggest": {
+        "symfony/yaml": "Install ~3.0 if you require YAML support.",
+        "laktak/hjson": "Install ~2.0 if you require HJSON support.",
+        "yosymfony/toml": "Install ~1.0 if you require TOML support.",
+        "php-http/httplug": "Install ~1.0 if you require HttpClient as HttpPlug implementation.",
+        "paragonie/sodium_compat": "Install paragonie/sodium_compat if you want to SodiumCipher.",
+        "doctrine/annotations": "Install ~1.0 to support DI annotations injectable.",
+        "php-di/phpdoc-reader": "Install ~2.0 to support DI annotations injectable.",
+        "ext-libsodium": "Install php-libsodium if you want to use SodiumCipher with higher performance and use Argon2 or Scrypt password hash."
+    },
+    "autoload": {
+        "psr-4": {
+            "Windwalker\\": "src/"
+        },
+        "files": [
+            "src/Utilities/functions.php",
+            "src/String/functions.php",
+            "src/Test/compat.php"
+        ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.x-dev"
+        }
+    },
+    "provide":           {
+        "psr/cache-implementation": "~1.0",
+        "psr/http-message-implementation": "~1.0",
+        "php-http/client-implementation": "~1.0"
+    },
+    "replace": {
+        "windwalker/application": "self.version",
+        "windwalker/authentication": "self.version",
+        "windwalker/authorisation": "self.version",
+        "windwalker/cache": "self.version",
+        "windwalker/compare": "self.version",
+        "windwalker/console": "self.version",
+        "windwalker/crypt": "self.version",
+        "windwalker/data": "self.version",
+        "windwalker/database": "self.version",
+        "windwalker/datamapper": "self.version",
+        "windwalker/di": "self.version",
+        "windwalker/dom": "self.version",
+        "windwalker/edge": "self.version",
+        "windwalker/environment": "self.version",
+        "windwalker/event": "self.version",
+        "windwalker/filesystem": "self.version",
+        "windwalker/filter": "self.version",
+        "windwalker/form": "self.version",
+        "windwalker/html": "self.version",
+        "windwalker/http": "self.version",
+        "windwalker/io": "self.version",
+        "windwalker/language": "self.version",
+        "windwalker/loader": "self.version",
+        "windwalker/middleware": "self.version",
+        "windwalker/profiler": "self.version",
+        "windwalker/query": "self.version",
+        "windwalker/queue": "self.version",
+        "windwalker/record": "self.version",
+        "windwalker/renderer": "self.version",
+        "windwalker/router": "self.version",
+        "windwalker/session": "self.version",
+        "windwalker/string": "self.version",
+        "windwalker/structure": "self.version",
+        "windwalker/test": "self.version",
+        "windwalker/uri": "self.version",
+        "windwalker/utilities": "self.version",
+        "windwalker/validator": "self.version"
+    },
+    "config": {
+        "platform": {
+            "php": "7.1.10"
+        }
+    }
+}

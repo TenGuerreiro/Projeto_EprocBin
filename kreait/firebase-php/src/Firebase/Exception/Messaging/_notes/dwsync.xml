@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApiConnectionFailed.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="InvalidArgument.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="ServerError.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="MessagingError.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="InvalidMessage.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="ServerUnavailable.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="NotFound.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="AuthenticationError.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+<file name="QuotaExceeded.php" server="10.244.88.40//opt/" local="133042818320000000" remote="133042818320000000" Dst="0" />
+</dwsync>

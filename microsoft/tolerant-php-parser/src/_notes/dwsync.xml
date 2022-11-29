@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="TokenStreamProviderInterface.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="FunctionLike.php" server="10.244.88.40//opt/" local="133042817800000000" remote="133042817800000000" Dst="0" />
+<file name="bootstrap.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="Parser.php" server="10.244.88.40//opt/" local="133042817800000000" remote="133042817800000000" Dst="0" />
+<file name="ResolvedName.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="PositionUtilities.php" server="10.244.88.40//opt/" local="133042817760000000" remote="133042817760000000" Dst="0" />
+<file name="NamespacedNameInterface.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="TokenStreamProviderFactory.php" server="10.244.88.40//opt/" local="133042817760000000" remote="133042817760000000" Dst="0" />
+<file name="DiagnosticKind.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="SkippedToken.php" server="10.244.88.40//opt/" local="133042817760000000" remote="133042817760000000" Dst="0" />
+<file name="TokenStringMaps.php" server="10.244.88.40//opt/" local="133042817760000000" remote="133042817760000000" Dst="0" />
+<file name="ParseContext.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="Node.php" server="10.244.88.40//opt/" local="133042817760000000" remote="133042817760000000" Dst="0" />
+<file name="LineCharacterPosition.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="TextEdit.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="ClassLike.php" server="10.244.88.40//opt/" local="133042817800000000" remote="133042817800000000" Dst="0" />
+<file name="Range.php" server="10.244.88.40//opt/" local="133042817760000000" remote="133042817760000000" Dst="0" />
+<file name="MissingToken.php" server="10.244.88.40//opt/" local="133042817800000000" remote="133042817800000000" Dst="0" />
+<file name="FilePositionMap.php" server="10.244.88.40//opt/" local="133042817800000000" remote="133042817800000000" Dst="0" />
+<file name="TokenKind.php" server="10.244.88.40//opt/" local="133042817760000000" remote="133042817760000000" Dst="0" />
+<file name="CharacterCodes.php" server="10.244.88.40//opt/" local="133042817800000000" remote="133042817800000000" Dst="0" />
+<file name="Diagnostic.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="DiagnosticsProvider.php" server="10.244.88.40//opt/" local="133042817760000000" remote="133042817760000000" Dst="0" />
+<file name="Token.php" server="10.244.88.40//opt/" local="133042817800000000" remote="133042817800000000" Dst="0" />
+<file name="PhpTokenizer.php" server="10.244.88.40//opt/" local="133042817750000000" remote="133042817750000000" Dst="0" />
+<file name="NamespacedNameTrait.php" server="10.244.88.40//opt/" local="133042817800000000" remote="133042817800000000" Dst="0" />
+</dwsync>

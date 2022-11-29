@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DatabaseQueueFailer.php" server="10.244.88.40//opt/" local="133042819370000000" remote="133042819370000000" Dst="0" />
+<file name="PdoQueueFailer.php" server="10.244.88.40//opt/" local="133042819370000000" remote="133042819370000000" Dst="0" />
+<file name="QueueFailerInterface.php" server="10.244.88.40//opt/" local="133042819370000000" remote="133042819370000000" Dst="0" />
+<file name="NullQueueFailer.php" server="10.244.88.40//opt/" local="133042819370000000" remote="133042819370000000" Dst="0" />
+</dwsync>

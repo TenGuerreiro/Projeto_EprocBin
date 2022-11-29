@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CredentialsException.php" server="10.244.88.40//opt/" local="133042825130000000" remote="133042825130000000" Dst="0" />
+<file name="UnresolvedEndpointException.php" server="10.244.88.40//opt/" local="133042825130000000" remote="133042825130000000" Dst="0" />
+<file name="UnresolvedApiException.php" server="10.244.88.40//opt/" local="133042825130000000" remote="133042825130000000" Dst="0" />
+<file name="CommonRuntimeException.php" server="10.244.88.40//opt/" local="133042825130000000" remote="133042825130000000" Dst="0" />
+<file name="UnresolvedSignatureException.php" server="10.244.88.40//opt/" local="133042825130000000" remote="133042825130000000" Dst="0" />
+<file name="IncalculablePayloadException.php" server="10.244.88.40//opt/" local="133042825130000000" remote="133042825130000000" Dst="0" />
+<file name="CouldNotCreateChecksumException.php" server="10.244.88.40//opt/" local="133042825130000000" remote="133042825130000000" Dst="0" />
+<file name="CryptoPolyfillException.php" server="10.244.88.40//opt/" local="133042825130000000" remote="133042825130000000" Dst="0" />
+<file name="MultipartUploadException.php" server="10.244.88.40//opt/" local="133042825130000000" remote="133042825130000000" Dst="0" />
+<file name="InvalidJsonException.php" server="10.244.88.40//opt/" local="133042825120000000" remote="133042825120000000" Dst="0" />
+<file name="EventStreamDataException.php" server="10.244.88.40//opt/" local="133042825130000000" remote="133042825130000000" Dst="0" />
+<file name="CryptoException.php" server="10.244.88.40//opt/" local="133042825130000000" remote="133042825130000000" Dst="0" />
+<file name="AwsException.php" server="10.244.88.40//opt/" local="133042825120000000" remote="133042825120000000" Dst="0" />
+<file name="InvalidRegionException.php" server="10.244.88.40//opt/" local="133042825130000000" remote="133042825130000000" Dst="0" />
+</dwsync>

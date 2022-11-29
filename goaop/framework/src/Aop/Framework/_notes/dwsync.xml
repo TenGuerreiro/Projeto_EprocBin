@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AfterInterceptor.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="DeclareErrorInterceptor.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="StaticInitializationJoinpoint.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="AroundInterceptor.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="TraitIntroductionInfo.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="ClassFieldAccess.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="DynamicInvocationMatcherInterceptor.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="AfterThrowingInterceptor.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="AbstractJoinpoint.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="AbstractMethodInvocation.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="BeforeInterceptor.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="StaticClosureMethodInvocation.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="DynamicClosureMethodInvocation.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="AbstractInvocation.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="ReflectionFunctionInvocation.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="AbstractInterceptor.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="OrderedAdvice.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="ReflectionConstructorInvocation.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+</dwsync>

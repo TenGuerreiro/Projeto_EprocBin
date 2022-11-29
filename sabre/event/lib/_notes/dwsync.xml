@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Version.php" server="10.244.88.40//opt/" local="133042817890000000" remote="133042817890000000" Dst="0" />
+<file name="Emitter.php" server="10.244.88.40//opt/" local="133042817880000000" remote="133042817880000000" Dst="0" />
+<file name="WildcardEmitter.php" server="10.244.88.40//opt/" local="133042817890000000" remote="133042817890000000" Dst="0" />
+<file name="WildcardEmitterTrait.php" server="10.244.88.40//opt/" local="133042817890000000" remote="133042817890000000" Dst="0" />
+<file name="coroutine.php" server="10.244.88.40//opt/" local="133042817890000000" remote="133042817890000000" Dst="0" />
+<file name="EmitterTrait.php" server="10.244.88.40//opt/" local="133042817890000000" remote="133042817890000000" Dst="0" />
+<file name="EmitterInterface.php" server="10.244.88.40//opt/" local="133042817890000000" remote="133042817890000000" Dst="0" />
+<file name="PromiseAlreadyResolvedException.php" server="10.244.88.40//opt/" local="133042817880000000" remote="133042817880000000" Dst="0" />
+<file name="EventEmitter.php" server="10.244.88.40//opt/" local="133042817890000000" remote="133042817890000000" Dst="0" />
+<file name="Promise.php" server="10.244.88.40//opt/" local="133042817880000000" remote="133042817880000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Aspect.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="Advisor.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="Advice.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="AdviceAround.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="AdviceBefore.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="Features.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="PointFilter.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="AdviceAfter.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="AspectException.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="Pointcut.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="Proxy.php" server="10.244.88.40//opt/" local="133042818790000000" remote="133042818790000000" Dst="0" />
+<file name="IntroductionAdvisor.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+<file name="PointcutAdvisor.php" server="10.244.88.40//opt/" local="133042818780000000" remote="133042818780000000" Dst="0" />
+<file name="IntroductionInfo.php" server="10.244.88.40//opt/" local="133042818770000000" remote="133042818770000000" Dst="0" />
+</dwsync>

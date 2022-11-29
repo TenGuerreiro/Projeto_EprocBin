@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CallableType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="StaticOrSelfType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="TemplateType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="FalseType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="ArrayShapeType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="FunctionLikeDeclarationType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="MultiType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="SelfType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="GenericArrayInterface.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="CallableDeclarationType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="LiteralTypeInterface.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="ResourceType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="GenericArrayType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="CallableStringType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="IterableType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="TrueType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="IntType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="FloatType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="ScalarType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="ClosureType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="CallableInterface.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="ArrayType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="GenericArrayTemplateKeyType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="ClosureDeclarationType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="StaticType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="LiteralIntType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="ClosureDeclarationParameter.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="BoolType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="VoidType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="GenericMultiArrayType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="ObjectType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="LiteralStringType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="NullType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="GenericIterableType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="ScalarRawType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="ClassStringType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="StringType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+<file name="MixedType.php" server="10.244.88.40//opt/" local="133042818670000000" remote="133042818670000000" Dst="0" />
+<file name="NativeType.php" server="10.244.88.40//opt/" local="133042818660000000" remote="133042818660000000" Dst="0" />
+</dwsync>
